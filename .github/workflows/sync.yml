@@ -35,19 +35,18 @@ jobs:
         id: diff
         run: |
           if [ ! -f M17_Hosts.txt.new ]; then
-            echo "Upstream returned 304 Not Modified; nothing to do."
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          if [ ! -s M17_Hosts.txt.new ]; then
+            echo "Upstream returned 304 Not Modified."
+          elif [ ! -s M17_Hosts.txt.new ]; then
             echo "Fetched file is empty; aborting." >&2
             exit 1
-          fi
-          if [ ! -f M17_Hosts.txt ] || ! cmp -s M17_Hosts.txt M17_Hosts.txt.new; then
+          elif [ ! -f M17_Hosts.txt ] || ! cmp -s M17_Hosts.txt M17_Hosts.txt.new; then
             mv M17_Hosts.txt.new M17_Hosts.txt
-            echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             rm M17_Hosts.txt.new
+          fi
+          if [ -n "$(git status --porcelain -- M17_Hosts.txt .etag)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
             echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
@@ -57,5 +56,6 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add M17_Hosts.txt .etag
-          git commit -m "sync: M17_Hosts.txt $(date -u +%Y-%m-%dT%H:%MZ)"
+          files=$(git diff --cached --name-only | paste -sd, -)
+          git commit -m "sync: ${files} $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
