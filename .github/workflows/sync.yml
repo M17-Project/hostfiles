@@ -21,30 +21,42 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch M17_Hosts.txt
+      - name: Fetch hostfiles
+        env:
+          UA: ${{ secrets.REFCHECK_USER_AGENT }}
         run: |
-          touch .etag
-          curl --fail --show-error --silent \
-            --retry 5 --retry-delay 10 --retry-all-errors \
-            --max-time 60 \
-            --etag-compare .etag --etag-save .etag \
-            -o M17_Hosts.txt.new \
-            https://www.pistar.uk/downloads/M17_Hosts.txt
+          if [ -z "$UA" ]; then
+            echo "REFCHECK_USER_AGENT secret is not set." >&2
+            exit 1
+          fi
+          for f in M17Hosts.txt M17Hosts.json; do
+            touch ".etag.$f"
+            curl --fail --show-error --silent \
+              --retry 5 --retry-delay 10 --retry-all-errors \
+              --max-time 60 \
+              -A "$UA" \
+              --etag-compare ".etag.$f" --etag-save ".etag.$f" \
+              -o "$f.new" \
+              "https://hostfiles.refcheck.radio/$f"
+          done
 
       - name: Replace if changed
         id: diff
         run: |
-          if [ ! -f M17_Hosts.txt.new ]; then
-            echo "Upstream returned 304 Not Modified."
-          elif [ ! -s M17_Hosts.txt.new ]; then
-            echo "Fetched file is empty; aborting." >&2
-            exit 1
-          elif [ ! -f M17_Hosts.txt ] || ! cmp -s M17_Hosts.txt M17_Hosts.txt.new; then
-            mv M17_Hosts.txt.new M17_Hosts.txt
-          else
-            rm M17_Hosts.txt.new
-          fi
-          if [ -n "$(git status --porcelain -- M17_Hosts.txt .etag)" ]; then
+          for f in M17Hosts.txt M17Hosts.json; do
+            if [ ! -f "$f.new" ]; then
+              echo "$f: 304 Not Modified."
+            elif [ ! -s "$f.new" ]; then
+              echo "$f: fetched file is empty; aborting." >&2
+              exit 1
+            elif [ ! -f "$f" ] || ! cmp -s "$f" "$f.new"; then
+              mv "$f.new" "$f"
+            else
+              rm "$f.new"
+            fi
+          done
+          tracked="M17Hosts.txt M17Hosts.json .etag.M17Hosts.txt .etag.M17Hosts.json"
+          if [ -n "$(git status --porcelain -- $tracked)" ]; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "changed=false" >> "$GITHUB_OUTPUT"
@@ -55,7 +67,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add M17_Hosts.txt .etag
+          git add M17Hosts.txt M17Hosts.json .etag.M17Hosts.txt .etag.M17Hosts.json
           files=$(git diff --cached --name-only | paste -sd, -)
           git commit -m "sync: ${files} $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
