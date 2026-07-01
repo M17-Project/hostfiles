@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-07-01 13:30:45 UTC
+# Generated: 2026-07-01 16:30:46 UTC
 # ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP. Commercial Use Prohibited.
 #
 M17-002 89.240.4.99 17000
