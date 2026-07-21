@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-07-21 22:11:55 UTC
+# Generated: 2026-07-21 22:41:56 UTC
 # Source:    https://refcheck.radio
 # ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP. Commercial Use Prohibited.
 #
@@ -213,7 +213,6 @@ URFIND 174.137.23.148 17000
 URFITA 44.31.102.138 17000
 URFITM 46.226.178.86 17000
 URFJET 5.161.18.189 17000
-URFKXM 73.3.9.172 17000
 URFLAN 82.68.53.241 17000
 URFLKA 149.248.9.150 17000
 URFM17 45.79.204.38 17000
