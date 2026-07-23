@@ -2,29 +2,10 @@
   "_refcheck_metadata": {
     "filename": "M17Hosts.json",
     "source_url": "https://refcheck.radio",
-    "generated": "2026-07-22 22:48:22 UTC",
+    "generated": "2026-07-23 03:36:45 UTC",
     "processor": "RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP. Commercial Use Prohibited."
   },
   "reflectors": [
-    {
-      "designator": "M17-002",
-      "name": null,
-      "slug": "m17-002",
-      "url": "http://urf001.cumbriacq.com:98/urf/",
-      "dns": null,
-      "ipv4": "89.240.4.99",
-      "ipv6": null,
-      "modules": [
-        "A"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "cumbriaCQ.com",
-      "country": "GB",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
     {
       "designator": "M17-003",
       "name": "RI DIGITALINK",
@@ -160,7 +141,7 @@
       "sponsor": "HELLAS Ham Radio Net Zone",
       "country": "GR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.361313Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.366002Z",
       "last_verified_at": "2026-04-16T15:53:34.888591Z"
     },
     {
@@ -179,7 +160,7 @@
       "sponsor": "PY4EI",
       "country": "BR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.242819Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.311849Z",
       "last_verified_at": "2026-07-08T22:25:01.080654Z"
     },
     {
@@ -199,7 +180,7 @@
       "sponsor": "020 Digital Multiprotocol Group",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.389841Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.259832Z",
       "last_verified_at": "2026-07-19T10:47:02.189566Z"
     },
     {
@@ -289,7 +270,7 @@
       "sponsor": "ne-dstar.org",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.325197Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.272636Z",
       "last_verified_at": "2026-05-07T23:07:47.561701Z"
     },
     {
@@ -308,27 +289,8 @@
       "sponsor": "PY4EI",
       "country": "BR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.237521Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.374208Z",
       "last_verified_at": "2026-07-08T22:25:21.303604Z"
-    },
-    {
-      "designator": "M17-0CS",
-      "name": "MMDVM Reflector Test",
-      "slug": "m17-0cs",
-      "url": null,
-      "dns": "test.k4php.com",
-      "ipv4": "172.11.101.201",
-      "ipv6": null,
-      "modules": [
-        "A"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": null,
-      "country": "US",
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.244377Z",
-      "last_verified_at": "2025-05-30T23:47:26.915061Z"
     },
     {
       "designator": "M17-105",
@@ -346,105 +308,8 @@
       "sponsor": "PY4EI",
       "country": "BR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.568924Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.266420Z",
       "last_verified_at": "2026-06-05T02:45:53.347127Z"
-    },
-    {
-      "designator": "M17-108",
-      "name": "SavonaNetwork",
-      "slug": "m17-108",
-      "url": "http://87.106.53.226",
-      "dns": null,
-      "ipv4": "87.106.53.226",
-      "ipv6": null,
-      "modules": [
-        "H",
-        "A",
-        "G",
-        "D",
-        "F",
-        "E",
-        "B",
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "CISAR sezione di Genova",
-      "country": "IT",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-12-17T11:30:06.160231Z"
-    },
-    {
-      "designator": "M17-111",
-      "name": "M17-111  HELLAS Zone!",
-      "slug": "m17-111",
-      "url": "http://m17.foxhost.org",
-      "dns": "foxhost.org",
-      "ipv4": "46.59.68.211",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "E",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "encrypted": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "E",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "port": 17000,
-      "sponsor": "HELLAS Ham Radio Net Zone",
-      "country": "SE",
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.249626Z",
-      "last_verified_at": "2026-04-16T19:37:05.258759Z"
     },
     {
       "designator": "M17-117",
@@ -505,7 +370,7 @@
       "sponsor": "XLX137",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.251768Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.295962Z",
       "last_verified_at": "2026-06-13T17:07:33.279554Z"
     },
     {
@@ -593,34 +458,6 @@
       "last_verified_at": "2026-06-10T04:35:57.099716Z"
     },
     {
-      "designator": "M17-17M",
-      "name": null,
-      "slug": "m17-17m",
-      "url": "http://M17Server.duckdns.org",
-      "dns": null,
-      "ipv4": "155.138.213.86",
-      "ipv6": null,
-      "modules": [
-        "H",
-        "A",
-        "G",
-        "D",
-        "I",
-        "J",
-        "F",
-        "E",
-        "B",
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "DroidStar.Net",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
       "designator": "M17-182",
       "name": null,
       "slug": "m17-182",
@@ -663,25 +500,6 @@
       "ip_source": "static",
       "dns_cache_updated_at": null,
       "last_verified_at": "2026-05-19T15:13:21.591778Z"
-    },
-    {
-      "designator": "M17-199",
-      "name": null,
-      "slug": "m17-199",
-      "url": "http://www.google.com",
-      "dns": null,
-      "ipv4": "45.164.228.196",
-      "ipv6": null,
-      "modules": [
-        "B"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "TEST",
-      "country": "AR",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-202",
@@ -751,7 +569,7 @@
       "sponsor": "HELLAS Zone Net! By SA7SVR",
       "country": "GR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.249040Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.256333Z",
       "last_verified_at": "2026-07-15T07:33:58.804242Z"
     },
     {
@@ -795,7 +613,7 @@
       "sponsor": "W1BSB",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.250983Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.268226Z",
       "last_verified_at": "2026-07-01T04:00:02.584272Z"
     },
     {
@@ -814,7 +632,7 @@
       "sponsor": "N3BBF",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.538835Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.462358Z",
       "last_verified_at": "2026-07-13T05:07:58.089949Z"
     },
     {
@@ -837,7 +655,7 @@
       "sponsor": "Chaverim of Greater Washington DC",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.245999Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.259396Z",
       "last_verified_at": "2026-06-18T14:47:27.073764Z"
     },
     {
@@ -880,138 +698,8 @@
       "sponsor": "145500.xyz",
       "country": "RO",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.250030Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.263353Z",
       "last_verified_at": "2026-05-18T11:43:14.453221Z"
-    },
-    {
-      "designator": "M17-235",
-      "name": null,
-      "slug": "m17-235",
-      "url": "https://dvsph.net/m17",
-      "dns": null,
-      "ipv4": "75.119.140.37",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "D",
-        "E",
-        "B",
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "DVSPH",
-      "country": "GB",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-236",
-      "name": null,
-      "slug": "m17-236",
-      "url": "https://xlx.kd8grn.net",
-      "dns": null,
-      "ipv4": "209.190.4.10",
-      "ipv6": "2001:1828:0:7f03::11",
-      "modules": [
-        "A"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "OhioLink Network",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-255",
-      "name": null,
-      "slug": "m17-255",
-      "url": "http://m17ua.qrz.od.ua:3000/",
-      "dns": null,
-      "ipv4": "194.143.137.145",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "E",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "QRZ Odessa",
-      "country": "UA",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-260",
-      "name": null,
-      "slug": "m17-260",
-      "url": "http://arcadius.ddns.net:8081/",
-      "dns": null,
-      "ipv4": "88.156.169.164",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "D",
-        "E",
-        "B",
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "sp1are",
-      "country": "PL",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-265",
-      "name": null,
-      "slug": "m17-265",
-      "url": "http://185.174.14.75/M17",
-      "dns": null,
-      "ipv4": "185.174.14.75",
-      "ipv6": null,
-      "modules": [
-        "D"
-      ],
-      "encrypted": [
-        "D"
-      ],
-      "port": 17000,
-      "sponsor": "SQ5akc",
-      "country": "PL",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-2MC",
@@ -1029,12 +717,12 @@
       "sponsor": "WG5EEK",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.244970Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.256893Z",
       "last_verified_at": "2026-07-20T03:36:52.528303Z"
     },
     {
       "designator": "M17-315",
-      "name": "Wisconsin Digital Crossmode Reflector",
+      "name": "Wisconsin Digital Mode Reflector",
       "slug": "m17-315",
       "url": "https://xlx315.duckdns.org",
       "dns": "xlx315.duckdns.org",
@@ -1048,8 +736,8 @@
       "sponsor": "WX9KVH",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.243684Z",
-      "last_verified_at": "2026-07-21T20:51:36.018492Z"
+      "dns_cache_updated_at": "2026-07-23T03:18:18.299700Z",
+      "last_verified_at": "2026-07-23T00:39:32.203896Z"
     },
     {
       "designator": "M17-333",
@@ -1068,7 +756,7 @@
       "sponsor": "Rana QQ",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.247719Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.260909Z",
       "last_verified_at": "2026-07-21T13:38:48.160032Z"
     },
     {
@@ -1088,7 +776,7 @@
       "sponsor": "US-Keywork",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.265260Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.297612Z",
       "last_verified_at": "2026-07-18T19:38:44.754679Z"
     },
     {
@@ -1118,29 +806,6 @@
       "ip_source": "static",
       "dns_cache_updated_at": null,
       "last_verified_at": "2026-03-19T18:46:18.732614Z"
-    },
-    {
-      "designator": "M17-420",
-      "name": "VE2SUS REF420",
-      "slug": "m17-420",
-      "url": "https://xlx.ve2sus.com",
-      "dns": "ref.ve2sus.com",
-      "ipv4": "173.206.226.229",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "D",
-        "E",
-        "B",
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "VE2SUS",
-      "country": "CA",
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.285909Z",
-      "last_verified_at": "2025-06-03T00:16:18.698559Z"
     },
     {
       "designator": "M17-427",
@@ -1319,7 +984,7 @@
       "sponsor": "RadioSC",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.262233Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.281999Z",
       "last_verified_at": "2026-06-27T10:37:10.265688Z"
     },
     {
@@ -1341,29 +1006,8 @@
       "sponsor": "KQ4TNV",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.247111Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.258787Z",
       "last_verified_at": "2026-02-01T04:59:04.729466Z"
-    },
-    {
-      "designator": "M17-603",
-      "name": null,
-      "slug": "m17-603",
-      "url": "http://m17-603.cnharc.org",
-      "dns": null,
-      "ipv4": "65.175.191.169",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "C",
-        "B"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "Central NH Amateur Radio Club",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-647",
@@ -1406,30 +1050,8 @@
       "sponsor": "HS5BLO",
       "country": "TH",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.248650Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.277412Z",
       "last_verified_at": "2026-06-02T13:04:43.094527Z"
-    },
-    {
-      "designator": "M17-659",
-      "name": null,
-      "slug": "m17-659",
-      "url": "http://m17.af0ss.org:1717",
-      "dns": null,
-      "ipv4": "64.23.130.152",
-      "ipv6": "2604:a880:4:1d0::60b:a000",
-      "modules": [
-        "A",
-        "C",
-        "X",
-        "B"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "Open Source Amateur Radio Club",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-672",
@@ -1456,28 +1078,6 @@
       "last_verified_at": "2025-12-01T13:45:16.883515Z"
     },
     {
-      "designator": "M17-705",
-      "name": null,
-      "slug": "m17-705",
-      "url": "http://m17.ve3ukw.ca:3000",
-      "dns": null,
-      "ipv4": "216.129.211.32",
-      "ipv6": null,
-      "modules": [
-        "D",
-        "B",
-        "C",
-        "X"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "ve3ukw",
-      "country": "CA",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
       "designator": "M17-718",
       "name": "AllStarLink Italoa",
       "slug": "m17-718",
@@ -1494,7 +1094,7 @@
       "sponsor": "Allstar_515930-Net.IT_Hub",
       "country": "IT",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.251413Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.265448Z",
       "last_verified_at": "2025-12-04T08:16:48.331474Z"
     },
     {
@@ -1517,27 +1117,6 @@
       "last_verified_at": "2026-05-30T12:39:51.912780Z"
     },
     {
-      "designator": "M17-748",
-      "name": "UYURUGUAY.NET",
-      "slug": "m17-748",
-      "url": null,
-      "dns": "142.171.223.51",
-      "ipv4": "142.171.223.51",
-      "ipv6": null,
-      "modules": [
-        "A"
-      ],
-      "encrypted": [
-        "A"
-      ],
-      "port": 17000,
-      "sponsor": "CX3DW",
-      "country": "UY",
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.248192Z",
-      "last_verified_at": "2025-11-03T18:42:00.166529Z"
-    },
-    {
       "designator": "M17-815",
       "name": "Fun Machine Linked Repeater System",
       "slug": "m17-815",
@@ -1556,7 +1135,7 @@
       "sponsor": "WE0FUN Fun Machine Linked Repeater System",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.238863Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.257548Z",
       "last_verified_at": "2026-04-18T16:39:02.346432Z"
     },
     {
@@ -1586,7 +1165,7 @@
       "slug": "m17-835",
       "url": "https://wmrasystem.com/M17/",
       "dns": "wmrasystem.com",
-      "ipv4": "45.77.87.170",
+      "ipv4": "140.82.17.174",
       "ipv6": "2001:19f0:6000:3442:5400:6ff:fe3b:1141",
       "modules": [
         "A"
@@ -1596,70 +1175,8 @@
       "sponsor": "WMRA",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.267079Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.263917Z",
       "last_verified_at": "2026-07-14T20:32:44.529462Z"
-    },
-    {
-      "designator": "M17-847",
-      "name": null,
-      "slug": "m17-847",
-      "url": "https://m17-847.kk7mnz.com",
-      "dns": null,
-      "ipv4": "98.171.104.209",
-      "ipv6": null,
-      "modules": [
-        "A"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "Chandler Hams",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-848",
-      "name": null,
-      "slug": "m17-848",
-      "url": "https://m17-848.kk7mnz.com",
-      "dns": null,
-      "ipv4": "24.199.69.152",
-      "ipv6": null,
-      "modules": [
-        "A"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "KK7MNZ",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-894",
-      "name": "M17-894",
-      "slug": "m17-894",
-      "url": "http://ke4qcm.zapto.org:3003",
-      "dns": null,
-      "ipv4": "108.86.204.123",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "D",
-        "F",
-        "E",
-        "B",
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "KE4QCM",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-11-09T17:05:03.678483Z"
     },
     {
       "designator": "M17-909",
@@ -1677,7 +1194,7 @@
       "sponsor": "E20AE",
       "country": "TH",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.269759Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.294489Z",
       "last_verified_at": "2026-06-25T11:01:00.666319Z"
     },
     {
@@ -1696,7 +1213,7 @@
       "sponsor": "XLX910 - Washington, DC - Maryland - Virginia",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.250581Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.273209Z",
       "last_verified_at": "2026-06-01T21:37:07.781020Z"
     },
     {
@@ -1734,7 +1251,7 @@
       "sponsor": "HS0ZOE",
       "country": "TH",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.240169Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.254020Z",
       "last_verified_at": "2026-06-14T21:57:26.901192Z"
     },
     {
@@ -1763,210 +1280,6 @@
       "last_verified_at": "2025-10-03T06:18:33.160544Z"
     },
     {
-      "designator": "M17-983",
-      "name": null,
-      "slug": "m17-983",
-      "url": "https://M17-983.k8jtk.org/",
-      "dns": "M17-983.K8JTK.org",
-      "ipv4": "45.76.228.241",
-      "ipv6": "2001:19f0:5c01:1fe3:5400:2ff:fef0:bfed",
-      "modules": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "E",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "DVMIS Multimode ILS (K8JTK.org)",
-      "country": "US",
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.364713Z",
-      "last_verified_at": "2025-04-04T14:22:14.518307Z"
-    },
-    {
-      "designator": "M17-999",
-      "name": null,
-      "slug": "m17-999",
-      "url": "http://94.177.173.53:3000",
-      "dns": null,
-      "ipv4": "94.177.173.53",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "E",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "IW1ELO",
-      "country": "IT",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2026-06-22T21:18:25.302645Z"
-    },
-    {
-      "designator": "M17-9V1",
-      "name": null,
-      "slug": "m17-9v1",
-      "url": "http://139.162.27.103:3000",
-      "dns": null,
-      "ipv4": "139.162.27.103",
-      "ipv6": "2400:8901::f03c:95ff:fec1:dbd0",
-      "modules": [
-        "A"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "",
-      "country": "SG",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-AP2",
-      "name": null,
-      "slug": "m17-ap2",
-      "url": "http://m17.pakhams.com:3000",
-      "dns": null,
-      "ipv4": "58.65.136.202",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "E",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "AP2CJ",
-      "country": "PK",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-ASL",
-      "name": null,
-      "slug": "m17-asl",
-      "url": "https://m17asl.ddns.net/",
-      "dns": null,
-      "ipv4": "44.134.32.13",
-      "ipv6": null,
-      "modules": [
-        "H",
-        "A",
-        "G",
-        "D",
-        "I",
-        "J",
-        "Z",
-        "F",
-        "E",
-        "B",
-        "C"
-      ],
-      "encrypted": [
-        "Z"
-      ],
-      "port": 17000,
-      "sponsor": "https://allstarlink-italia.it",
-      "country": "IT",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-AUT",
-      "name": "M17-AUT Reflektor",
-      "slug": "m17-aut",
-      "url": "https://m17-aut.xreflector.net/",
-      "dns": null,
-      "ipv4": "195.26.215.3",
-      "ipv6": null,
-      "modules": [
-        "D",
-        "A",
-        "C",
-        "B"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "ÖVSV",
-      "country": "AT",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-08-18T07:19:13.873128Z"
-    },
-    {
       "designator": "M17-BAT",
       "name": "Reflector  M17  per  Trani Conference",
       "slug": "m17-bat",
@@ -1986,36 +1299,6 @@
       "ip_source": "static",
       "dns_cache_updated_at": null,
       "last_verified_at": "2026-06-25T08:13:47.429068Z"
-    },
-    {
-      "designator": "M17-BEL",
-      "name": null,
-      "slug": "m17-bel",
-      "url": "http://2061.adn.systems:3000",
-      "dns": null,
-      "ipv4": "173.212.223.187",
-      "ipv6": null,
-      "modules": [
-        "H",
-        "A",
-        "X",
-        "G",
-        "D",
-        "W",
-        "Z",
-        "Y",
-        "F",
-        "E",
-        "B",
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "UBA-BE",
-      "country": "BE",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-BTT",
@@ -2054,7 +1337,7 @@
       "sponsor": "Backyard Repeater Group",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.262209Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.362644Z",
       "last_verified_at": "2026-07-14T13:54:33.831414Z"
     },
     {
@@ -2185,49 +1468,6 @@
       "last_verified_at": "2025-08-24T11:53:51.950872Z"
     },
     {
-      "designator": "M17-CHN",
-      "name": null,
-      "slug": "m17-chn",
-      "url": "https://mmdvm.cc/m17/",
-      "dns": "m17.mmdvm.cc",
-      "ipv4": "47.104.177.248",
-      "ipv6": null,
-      "modules": [
-        "D",
-        "A",
-        "C",
-        "B"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "DRCC Team",
-      "country": "CN",
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-02-13T15:18:00.690457Z",
-      "last_verified_at": "2025-04-04T13:15:16.017669Z"
-    },
-    {
-      "designator": "M17-CQM",
-      "name": null,
-      "slug": "m17-cqm",
-      "url": "http://m17.wa8bro.com",
-      "dns": null,
-      "ipv4": "13.59.123.174",
-      "ipv6": null,
-      "modules": [
-        "B",
-        "C",
-        "X"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "WA8BRO Backyard Repeater Owners of America - WW2MI, W8WAC, KA8WYN, K8NET",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
       "designator": "M17-CZ0",
       "name": null,
       "slug": "m17-cz0",
@@ -2269,30 +1509,8 @@
       "sponsor": "ok1lbc",
       "country": "CZ",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.602808Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.585767Z",
       "last_verified_at": "2026-05-23T10:47:04.567225Z"
-    },
-    {
-      "designator": "M17-DMR",
-      "name": null,
-      "slug": "m17-dmr",
-      "url": "https://m17.freestar.network",
-      "dns": null,
-      "ipv4": "81.136.218.49",
-      "ipv6": null,
-      "modules": [
-        "D",
-        "A",
-        "C",
-        "B"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "freestar.network",
-      "country": "GB",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-E2H",
@@ -2310,29 +1528,8 @@
       "sponsor": "HS1AB",
       "country": "TH",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.286550Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.478505Z",
       "last_verified_at": "2026-06-06T03:22:04Z"
-    },
-    {
-      "designator": "M17-EOH",
-      "name": null,
-      "slug": "m17-eoh",
-      "url": "http://155.138.214.16/m17/",
-      "dns": null,
-      "ipv4": "155.138.214.16",
-      "ipv6": null,
-      "modules": [
-        "B",
-        "C",
-        "X"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "KB8JNM",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-FOG",
@@ -2394,7 +1591,7 @@
       "sponsor": "F4LML",
       "country": "FR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.398579Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.378918Z",
       "last_verified_at": "2025-12-19T14:34:44.868270Z"
     },
     {
@@ -2416,27 +1613,8 @@
       "sponsor": "ARI F.V.G.",
       "country": "IT",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.513324Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.407225Z",
       "last_verified_at": "2026-07-19T18:30:38.502791Z"
-    },
-    {
-      "designator": "M17-IGX",
-      "name": null,
-      "slug": "m17-igx",
-      "url": "http://aritrani.does-it.net:4000/",
-      "dns": null,
-      "ipv4": "62.84.190.249",
-      "ipv6": null,
-      "modules": [
-        "E"
-      ],
-      "encrypted": [],
-      "port": 17017,
-      "sponsor": "TEST account",
-      "country": "IT",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-IP6",
@@ -2594,49 +1772,6 @@
       "last_verified_at": "2026-05-15T22:36:58.696236Z"
     },
     {
-      "designator": "M17-JWG",
-      "name": null,
-      "slug": "m17-jwg",
-      "url": "https://m17.jwgtechs.com",
-      "dns": null,
-      "ipv4": "67.175.64.113",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "KD9KCK",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
       "designator": "M17-KCW",
       "name": null,
       "slug": "m17-kcw",
@@ -2657,76 +1792,6 @@
       "ip_source": "static",
       "dns_cache_updated_at": "2025-05-04T23:45:41.761313Z",
       "last_verified_at": "2025-05-20T17:21:12.076307Z"
-    },
-    {
-      "designator": "M17-KOR",
-      "name": null,
-      "slug": "m17-kor",
-      "url": "http://m17-kor.dvham.com",
-      "dns": null,
-      "ipv4": "175.208.150.170",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "G",
-        "D",
-        "F",
-        "E",
-        "B",
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "HL1RR",
-      "country": "KR",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-KPH",
-      "name": null,
-      "slug": "m17-kph",
-      "url": "https://m17.kapihan.net",
-      "dns": null,
-      "ipv4": "107.152.46.246",
-      "ipv6": null,
-      "modules": [
-        "U",
-        "X",
-        "T",
-        "W",
-        "Z",
-        "Y",
-        "V",
-        "S"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "KN6SF",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-KRD",
-      "name": null,
-      "slug": "m17-krd",
-      "url": "http://m17-krd.keenetic.link:3000",
-      "dns": null,
-      "ipv4": "77.66.180.214",
-      "ipv6": null,
-      "modules": [
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "RL7B",
-      "country": "RU",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-LEF",
@@ -2751,31 +1816,6 @@
       "ip_source": "static",
       "dns_cache_updated_at": null,
       "last_verified_at": "2025-12-20T19:41:12.692826Z"
-    },
-    {
-      "designator": "M17-LGE",
-      "name": null,
-      "slug": "m17-lge",
-      "url": "http://on6dp.no-ip.org:3000",
-      "dns": null,
-      "ipv4": "213.211.189.28",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "D",
-        "W",
-        "P",
-        "E",
-        "B",
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "UBA-LGE",
-      "country": "BE",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-LIM",
@@ -2818,7 +1858,7 @@
       "sponsor": "David PA7LIM",
       "country": "NL",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.354285Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.361435Z",
       "last_verified_at": "2026-07-11T07:46:46.132252Z"
     },
     {
@@ -2866,28 +1906,6 @@
       "last_verified_at": "2026-07-01T04:00:02.395931Z"
     },
     {
-      "designator": "M17-MEM",
-      "name": "Memphis Metro",
-      "slug": "m17-mem",
-      "url": null,
-      "dns": "99.94.135.115",
-      "ipv4": "99.94.135.115",
-      "ipv6": null,
-      "modules": [
-        "B",
-        "C",
-        "X",
-        "W"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "K0RET",
-      "country": "US",
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.235216Z",
-      "last_verified_at": "2026-01-31T18:02:07.349999Z"
-    },
-    {
       "designator": "M17-MEX",
       "name": null,
       "slug": "m17-mex",
@@ -2907,96 +1925,8 @@
       "sponsor": "XE1E",
       "country": "MX",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.267936Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.275028Z",
       "last_verified_at": "2026-02-11T05:50:18.772178Z"
-    },
-    {
-      "designator": "M17-MJA",
-      "name": null,
-      "slug": "m17-mja",
-      "url": "https://mja.vkradio.com/",
-      "dns": null,
-      "ipv4": "103.236.163.81",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "E",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "VK3MJA",
-      "country": "AU",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-N18",
-      "name": null,
-      "slug": "m17-n18",
-      "url": "http://dg3yjb.beba.re/M17Reflector/index.php",
-      "dns": null,
-      "ipv4": "144.76.12.90",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "E",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "Jan, DG3YJB",
-      "country": "DE",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-NCA",
@@ -3017,7 +1947,7 @@
       "sponsor": "K6HP",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.264511Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.505396Z",
       "last_verified_at": "2026-07-20T20:36:54.885490Z"
     },
     {
@@ -3039,52 +1969,6 @@
       "ip_source": "static",
       "dns_cache_updated_at": null,
       "last_verified_at": "2026-06-17T15:30:50.292159Z"
-    },
-    {
-      "designator": "M17-NRG",
-      "name": null,
-      "slug": "m17-nrg",
-      "url": "http://m17nrg.ddns.net",
-      "dns": null,
-      "ipv4": "78.83.115.219",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "C",
-        "X",
-        "B"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "LZ1GSP",
-      "country": "BG",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
-      "designator": "M17-NWR",
-      "name": null,
-      "slug": "m17-nwr",
-      "url": "https://m17.nwrg.org.uk",
-      "dns": null,
-      "ipv4": "217.40.29.234",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "D",
-        "F",
-        "E",
-        "B",
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "North Western Repeater Group UK",
-      "country": "GB",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-NZD",
@@ -3112,79 +1996,8 @@
       "sponsor": "Digital Voice New Zealand",
       "country": "NZ",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.374653Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.777054Z",
       "last_verified_at": "2025-05-17T13:30:24.418660Z"
-    },
-    {
-      "designator": "M17-OAF",
-      "name": null,
-      "slug": "m17-oaf",
-      "url": "http://m17.onirbanbd.com",
-      "dns": null,
-      "ipv4": "152.67.9.13",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "E",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "encrypted": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "E",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "port": 17000,
-      "sponsor": "VU3FBT & S21AF",
-      "country": "BD",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-OBX",
@@ -3207,27 +2020,8 @@
       "sponsor": "WB8OUE",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.299206Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.319485Z",
       "last_verified_at": "2026-06-30T13:01:18.711049Z"
-    },
-    {
-      "designator": "M17-OKL",
-      "name": null,
-      "slug": "m17-okl",
-      "url": "https://www.oklahomalink.rcwa.org/m17ref/",
-      "dns": null,
-      "ipv4": "3.208.70.29",
-      "ipv6": null,
-      "modules": [
-        "A"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "Rogers County Wireless Association",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-04-01T21:24:45.629354Z"
     },
     {
       "designator": "M17-OMO",
@@ -3356,7 +2150,7 @@
       "sponsor": "KJ7T",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.265910Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.274210Z",
       "last_verified_at": "2026-07-19T01:55:08.518020Z"
     },
     {
@@ -3401,26 +2195,6 @@
       "ip_source": "static",
       "dns_cache_updated_at": null,
       "last_verified_at": "2026-07-15T21:37:03.059442Z"
-    },
-    {
-      "designator": "M17-PRT",
-      "name": null,
-      "slug": "m17-prt",
-      "url": "https://m17.hamradio.pt/",
-      "dns": null,
-      "ipv4": "198.244.234.7",
-      "ipv6": "2001:41d0:801:2000::468f",
-      "modules": [
-        "A",
-        "C"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "HamRadioPT",
-      "country": "PT",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-QDR",
@@ -3534,7 +2308,7 @@
       "sponsor": "HELLAS Zone Net! By SA7SVR",
       "country": "GR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.280312Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.262824Z",
       "last_verified_at": "2026-07-15T08:32:25.291650Z"
     },
     {
@@ -3580,29 +2354,6 @@
       "ip_source": "static",
       "dns_cache_updated_at": null,
       "last_verified_at": "2026-02-27T12:57:12.727196Z"
-    },
-    {
-      "designator": "M17-RUS",
-      "name": "M17-RUS Experimental. FreeBSD Port Dev.",
-      "slug": "m17-rus",
-      "url": "https://m17ref.ogogon.org",
-      "dns": "m17ref.ogogon.org",
-      "ipv4": "217.197.197.129",
-      "ipv6": null,
-      "modules": [
-        "B",
-        "C"
-      ],
-      "encrypted": [
-        "R",
-        "X"
-      ],
-      "port": 17000,
-      "sponsor": "Ogogon !!!",
-      "country": "RU",
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.924494Z",
-      "last_verified_at": "2026-03-04T16:52:21.860469Z"
     },
     {
       "designator": "M17-SAT",
@@ -3710,7 +2461,7 @@
       "sponsor": "Lookout Mountain Amateur Radio Community",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.284816Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.293374Z",
       "last_verified_at": "2025-10-26T14:45:59.324383Z"
     },
     {
@@ -3762,47 +2513,6 @@
       "ip_source": "static",
       "dns_cache_updated_at": null,
       "last_verified_at": "2026-04-28T12:33:42.460304Z"
-    },
-    {
-      "designator": "M17-SUN",
-      "name": null,
-      "slug": "m17-sun",
-      "url": "https://kc5fm.ddns.net/m17ref/",
-      "dns": null,
-      "ipv4": "155.138.244.192",
-      "ipv6": null,
-      "modules": [
-        "A"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "AE5ME",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-04-01T21:24:14.033225Z"
-    },
-    {
-      "designator": "M17-SVN",
-      "name": null,
-      "slug": "m17-svn",
-      "url": "http://m17.s5svet.si:17080",
-      "dns": null,
-      "ipv4": "193.77.82.184",
-      "ipv6": null,
-      "modules": [
-        "D",
-        "A",
-        "C",
-        "B"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "S50PB",
-      "country": "SI",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-SWD",
@@ -3864,52 +2574,8 @@
       "sponsor": "BV3UN",
       "country": "TW",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.241870Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.258073Z",
       "last_verified_at": "2025-05-12T05:17:05.002873Z"
-    },
-    {
-      "designator": "M17-UAX",
-      "name": null,
-      "slug": "m17-uax",
-      "url": "http://m17.qrz.od.ua:3000",
-      "dns": null,
-      "ipv4": "178.136.97.107",
-      "ipv6": null,
-      "modules": [
-        "A",
-        "X",
-        "W",
-        "F",
-        "S",
-        "C",
-        "H",
-        "D",
-        "J",
-        "Z",
-        "P",
-        "L",
-        "Q",
-        "E",
-        "K",
-        "B",
-        "N",
-        "U",
-        "T",
-        "I",
-        "O",
-        "Y",
-        "G",
-        "M",
-        "R",
-        "V"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "QRZ Odessa",
-      "country": "UA",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
     },
     {
       "designator": "M17-USA",
@@ -3952,7 +2618,7 @@
       "sponsor": "W1WRA",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.295558Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.270599Z",
       "last_verified_at": "2026-02-15T01:31:02.556379Z"
     },
     {
@@ -3974,7 +2640,7 @@
       "sponsor": "Utah Digital Repeater Network",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.245498Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.261581Z",
       "last_verified_at": "2026-04-17T19:09:55.449361Z"
     },
     {
@@ -4022,28 +2688,6 @@
       "last_verified_at": "2026-06-19T06:02:20.848051Z"
     },
     {
-      "designator": "M17-WWR",
-      "name": null,
-      "slug": "m17-wwr",
-      "url": "http://104.238.145.198",
-      "dns": null,
-      "ipv4": "104.238.145.198",
-      "ipv6": "2001:19f0:6402:8d3:5400:4ff:fe7c:8dac",
-      "modules": [
-        "D",
-        "A",
-        "C",
-        "B"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "Worldwide Ragchew Amateur Radio Net",
-      "country": "US",
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "last_verified_at": "2025-03-28T17:58:21.860719Z"
-    },
-    {
       "designator": "M17-XOR",
       "name": "OE3ANC - DEV Reflector",
       "slug": "m17-xor",
@@ -4085,7 +2729,7 @@
       "sponsor": "JA3YAI",
       "country": "JP",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:48:18.491185Z",
+      "dns_cache_updated_at": "2026-07-23T03:18:18.849888Z",
       "last_verified_at": "2026-03-20T07:28:13.125308Z"
     },
     {
@@ -4172,82 +2816,8 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.702359Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.724069Z",
       "description": ""
-    },
-    {
-      "designator": "URF025",
-      "name": "SavonaNetwork",
-      "slug": "urf025",
-      "url": "http://82.165.165.43:4000",
-      "dns": null,
-      "ipv4": "82.165.165.43",
-      "ipv6": null,
-      "sponsor": "CISAR sezione di Genova",
-      "country": "IT",
-      "enabled_modes": [
-        "M17",
-        "P25",
-        "NXDN"
-      ],
-      "modules": [],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": ""
-    },
-    {
-      "designator": "URF045",
-      "name": "URF045 Multi-Protocol Reflector",
-      "slug": "urf045",
-      "url": "http://urf045.pennlinkgroup.com:8082/urfd/",
-      "dns": null,
-      "ipv4": "70.44.20.24",
-      "ipv6": null,
-      "sponsor": "PennLink Group",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "045-module-a",
-          "mode": "All",
-          "description": "Cross Mode Operation",
-          "transcode": true
-        },
-        {
-          "module": "C",
-          "slug": "045-module-c",
-          "mode": "DMR",
-          "description": "K1NRA DMR Repeater (Local)",
-          "transcode": true
-        },
-        {
-          "module": "E",
-          "slug": "045-module-e",
-          "mode": "All",
-          "description": "Cross Mode with AllStar but no Brandmeister",
-          "transcode": true
-        },
-        {
-          "module": "F",
-          "slug": "045-module-f",
-          "mode": "DMR",
-          "description": "Staff",
-          "transcode": false
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": "<p>This Reflector offers a connection to Brandmeister DMR on Module A. &nbsp;For more information see https://info.pennlinkgroup.com</p>"
     },
     {
       "designator": "URF070",
@@ -4306,55 +2876,8 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:46.026304Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.751817Z",
       "description": ""
-    },
-    {
-      "designator": "URF097",
-      "name": "New England Digital Radio",
-      "slug": "urf097",
-      "url": "http://urf097.newenglanddigitalradio.com",
-      "dns": null,
-      "ipv4": "140.82.24.7",
-      "ipv6": null,
-      "sponsor": "New England Digital Radio",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "NXDN",
-        "P25",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "097-module-a",
-          "mode": "All",
-          "description": "General Talk",
-          "transcode": true
-        },
-        {
-          "module": "B",
-          "slug": "097-module-b",
-          "mode": "All",
-          "description": "All Mode",
-          "transcode": true
-        },
-        {
-          "module": "C",
-          "slug": "097-module-c",
-          "mode": "M17",
-          "description": null,
-          "transcode": true
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": "2025-05-06T20:01:05.176470Z",
-      "description": "<p>New England Digital Radio KC1VAX</p>\r\n<p>&nbsp;</p>"
     },
     {
       "designator": "URF105",
@@ -4385,96 +2908,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.744951Z",
-      "description": ""
-    },
-    {
-      "designator": "URF106",
-      "name": "URF106",
-      "slug": "urf106",
-      "url": "http://urf106.com",
-      "dns": null,
-      "ipv4": "24.127.204.177",
-      "ipv6": null,
-      "sponsor": "Eastern-MI-Link",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN"
-      ],
-      "modules": [],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": "<h2>Eastern-MI-Link multi-mode network.&nbsp; See urf106.com for details.</h2>"
-    },
-    {
-      "designator": "URF181",
-      "name": "Indiana Link All Mode Reflector",
-      "slug": "urf181",
-      "url": "http://na9vy.us:44",
-      "dns": "na9vy.us",
-      "ipv4": "174.137.23.148",
-      "ipv6": null,
-      "sponsor": "Southern Indiana Network",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "181-module-a",
-          "mode": "All",
-          "description": "Ind Link All Modes",
-          "transcode": true
-        },
-        {
-          "module": "B",
-          "slug": "181-module-b",
-          "mode": "All",
-          "description": "Chat Room Whisky",
-          "transcode": true
-        },
-        {
-          "module": "C",
-          "slug": "181-module-c",
-          "mode": "All",
-          "description": "Chat Room Tango",
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.560776Z",
-      "description": "<p>Indiana Link all mode reflector connecting North Central Indiana and other areas of Northern Indiana.</p>"
-    },
-    {
-      "designator": "URF202",
-      "name": "HELLAS-NODE",
-      "slug": "urf202",
-      "url": "http://2022.adn.systems",
-      "dns": null,
-      "ipv4": "85.74.78.5",
-      "ipv6": "2a02:587:5259:cc00:85f9:5736:d7ad:59f3",
-      "sponsor": "HELLAS-NODE",
-      "country": "GR",
-      "enabled_modes": [
-        "M17"
-      ],
-      "modules": [],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
+      "dns_cache_updated_at": "2026-07-23T03:35:45.975349Z",
       "description": ""
     },
     {
@@ -4523,7 +2957,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.874854Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:48.274869Z",
       "description": "<p>Testbed for experimentation and host for Chaverim TAC2.</p>"
     },
     {
@@ -4583,143 +3017,8 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.579381Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.529157Z",
       "description": "<p>Multiprotocol reflector sponsored by the <em>Chaverim Radio Club</em>. Currently supported modes are:</p>\r\n<p>&nbsp;</p>\r\n<ul>\r\n<li>- Module A: D-STAR, DMR, M17, and C4FM/YSF</li>\r\n<li>- Module B: Future Use</li>\r\n<li>- Module C: Future Use</li>\r\n<li>- Module D: Future Use</li>\r\n<li>- Module E: Echo</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p><strong>Module A linked to Brandmeister TG 3213520</strong></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"text-decoration: underline;\">WEEKLY NETS</span></p>\r\n<p>&nbsp;</p>\r\n<p>Please join us for our weekly multiprotocol nets on XLX218 Module A:</p>\r\n<p><strong>- Washington DC Area Net</strong> every Thursday at 9PM US Eastern Time (Friday 0200 UTC).</p>\r\n<p><strong>- Worldwide Net</strong> every Sunday at 2000 UTC</p>\r\n<p>&nbsp;</p>\r\n<p>73 &amp; 18!</p>"
-    },
-    {
-      "designator": "URF259",
-      "name": "Zombie Alert Detroit",
-      "slug": "urf259",
-      "url": "https://urf259.whocaresradio.com",
-      "dns": "urf259.whocaresradio.com",
-      "ipv4": "67.220.71.98",
-      "ipv6": null,
-      "sponsor": "USECA / AA8GK / N8PBX / W8SOX",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "259-module-a",
-          "mode": "All",
-          "description": "Multimode (Minus DStar)",
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.569952Z",
-      "description": ""
-    },
-    {
-      "designator": "URF269",
-      "name": "Multimode HessenRLP",
-      "slug": "urf269",
-      "url": "https://urf269.26269.de",
-      "dns": "urf269.26269.de",
-      "ipv4": "44.31.0.6",
-      "ipv6": null,
-      "sponsor": "DC9VQ",
-      "country": "DE",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "269-module-a",
-          "mode": "All",
-          "description": "Multi Hessen/RLP",
-          "transcode": true
-        },
-        {
-          "module": "C",
-          "slug": "269-module-c",
-          "mode": "M17",
-          "description": "M17 Only",
-          "transcode": false
-        },
-        {
-          "module": "K",
-          "slug": "269-module-k",
-          "mode": "D-Star (DCS)",
-          "description": "DStar Hessen only",
-          "transcode": false
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.559643Z",
-      "description": "<p>the URF269 is used as main Reflector for the multimode Germany Hessen/RLP on Modul A. Currently the 2urfd version from N7TAE is used with local transcoding. Server is running in the HAMNET network but reachable via public internet.</p>"
-    },
-    {
-      "designator": "URF277",
-      "name": "BitbyBitHams all mode",
-      "slug": "urf277",
-      "url": "https://xlx277.bitbybithams.com",
-      "dns": null,
-      "ipv4": "67.207.37.195",
-      "ipv6": null,
-      "sponsor": "Bit By Bit Hams",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "277-module-a",
-          "mode": "All",
-          "description": "All mode module",
-          "transcode": true
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": ""
-    },
-    {
-      "designator": "URF306",
-      "name": "VK6 URF306",
-      "slug": "urf306",
-      "url": "http://urf306.warg.org.au/",
-      "dns": "urf306.warg.org.au",
-      "ipv4": "103.1.187.251",
-      "ipv6": null,
-      "sponsor": "West Australian Repeater Group",
-      "country": "AU",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "NXDN",
-        "P25",
-        "YSF"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:46.239775Z",
-      "description": "<p>Hosted in Perth, Western Australia.</p>\r\n<p>Module A transcoded with tcd and DVStick30</p>"
     },
     {
       "designator": "URF307",
@@ -4769,52 +3068,6 @@
       "description": "<p>The Quadnet Digital voice network, https://www.openquad.net</p>"
     },
     {
-      "designator": "URF324",
-      "name": "Amerinet US",
-      "slug": "urf324",
-      "url": "http://66492.ip.hamvoip.org",
-      "dns": "66492.ip.hamvoip.org",
-      "ipv4": "192.253.246.37",
-      "ipv6": null,
-      "sponsor": "KQ4HPI",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "NXDN",
-        "P25",
-        "YSF"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.791421Z",
-      "description": ""
-    },
-    {
-      "designator": "URF330",
-      "name": "Megalink Network Reflector",
-      "slug": "urf330",
-      "url": "https://xlx.megalink.network",
-      "dns": "xlx.megalink.network",
-      "ipv4": "216.227.142.171",
-      "ipv6": "2602:fed2:fc0::29",
-      "sponsor": "Wayne Technical Fanatics",
-      "country": "US",
-      "enabled_modes": [
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.687340Z",
-      "description": ""
-    },
-    {
       "designator": "URF363",
       "name": "URF363 - Saarland - Multimode Bridge (XLX363)",
       "slug": "urf363",
@@ -4856,89 +3109,8 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.603949Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.591842Z",
       "description": "<p>URF363 - Saarland - Multimode Bridge (XLX363)</p>"
-    },
-    {
-      "designator": "URF365",
-      "name": "xlx365",
-      "slug": "urf365",
-      "url": "http://xlx365.sv2snh.gr",
-      "dns": "xlx365.sv2snh.gr",
-      "ipv4": "46.12.119.59",
-      "ipv6": null,
-      "sponsor": "Digital Voice GREECE",
-      "country": "GR",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "YSF"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.882452Z",
-      "description": "<p>XLX365 Backup Reflector of XLX165&nbsp; Digital Voice GREECE 2</p>"
-    },
-    {
-      "designator": "URF386",
-      "name": "Foxhole",
-      "slug": "urf386",
-      "url": "https://xlx.foxhole.radio",
-      "dns": "xlx.foxhole.radio",
-      "ipv4": "52.176.210.10",
-      "ipv6": null,
-      "sponsor": "KZ4FOX",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "NXDN"
-      ],
-      "modules": [
-        {
-          "module": "B",
-          "slug": "386-module-b",
-          "mode": "All",
-          "description": "Bridge",
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.563800Z",
-      "description": "<p>Foxhole Bridge Networks</p>\r\n<p>https://foxhole.radio</p>"
-    },
-    {
-      "designator": "URF399",
-      "name": "RI49 - France Multiprotocole",
-      "slug": "urf399",
-      "url": "https://francemultiprotocole.fr",
-      "dns": null,
-      "ipv4": "82.66.121.200",
-      "ipv6": null,
-      "sponsor": "F6KCE",
-      "country": "FR",
-      "enabled_modes": [
-        "M17",
-        "P25",
-        "NXDN"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "399-module-a",
-          "mode": "All",
-          "description": "RI49 - Francemultiprotocole",
-          "transcode": true
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": "<p>RI49 - Francemultiprotocole</p>"
     },
     {
       "designator": "URF420",
@@ -4968,109 +3140,8 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.564366Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.621665Z",
       "description": ""
-    },
-    {
-      "designator": "URF421",
-      "name": "DL-Nordwest",
-      "slug": "urf421",
-      "url": "https://dl-nordwest.com/urf",
-      "dns": "dl-nordwest.com",
-      "ipv4": "152.53.85.93",
-      "ipv6": null,
-      "sponsor": "dl-nordwest.com",
-      "country": "DE",
-      "enabled_modes": [
-        "M17",
-        "D-Star (DCS)"
-      ],
-      "modules": [
-        {
-          "module": "D",
-          "slug": "421-module-d",
-          "mode": "All",
-          "description": "dl-nordwest.com",
-          "transcode": true
-        },
-        {
-          "module": "T",
-          "slug": "421-module-t",
-          "mode": "M17",
-          "description": "Test",
-          "transcode": false
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.686237Z",
-      "description": "<p><strong>DL-Nordwest Multigateway</strong></p>\r\n<p>DMR: BM TG26429, IPSC2 TG8421 (DMR-DL, DL-Rptr, DL-Hotspot, Ham-Cloud)<br>YSF: 54919, 26200 DG-ID 79<br>YCS: 262, DG-ID 79<br>Wires-X: 27741<br>D-Star: DCS421DL, XLX421DL<br>NXDN: TG20421<br>P25: TG10421<br>M17: URF421 D<br>Peanut: YSF-DLNW</p>\r\n<p>&nbsp;</p>\r\n<p>Sysops: Bernd DK5BS, Stephan 9V1LH/DG1BGS<br><em>for more information visit dl-nordwest.com</em></p>"
-    },
-    {
-      "designator": "URF478",
-      "name": "Ham Radio Village",
-      "slug": "urf478",
-      "url": "https://urf.hamvillage.org",
-      "dns": "urf.hamvillage.org",
-      "ipv4": "35.232.151.255",
-      "ipv6": null,
-      "sponsor": "Ham Radio Village",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "478-module-a",
-          "mode": "All",
-          "description": null,
-          "transcode": true
-        },
-        {
-          "module": "B",
-          "slug": "478-module-b",
-          "mode": "All",
-          "description": null,
-          "transcode": true
-        },
-        {
-          "module": "C",
-          "slug": "478-module-c",
-          "mode": "All",
-          "description": null,
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.621849Z",
-      "description": ""
-    },
-    {
-      "designator": "URF505",
-      "name": "AU-VK44-TG50544",
-      "slug": "urf505",
-      "url": "https://dmr.vk44.net",
-      "dns": "tg50544.ref.vk44.net",
-      "ipv4": "44.32.8.10",
-      "ipv6": null,
-      "sponsor": "VK44 Network (VK3VPN)",
-      "country": "AU",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "NXDN"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.567681Z",
-      "description": "<p><strong>VK44 Network - Talkgroup 50544</strong></p>\r\n<p><strong>Purpose:&nbsp;</strong>General Reflector</p>"
     },
     {
       "designator": "URF517",
@@ -5155,168 +3226,6 @@
       "description": ""
     },
     {
-      "designator": "URF524",
-      "name": "VK-OzHUB",
-      "slug": "urf524",
-      "url": "https://tg50524.vk44.net",
-      "dns": "tg50524-vkozhub.ref.vk44.net",
-      "ipv4": "44.32.8.9",
-      "ipv6": null,
-      "sponsor": "VK44 Network",
-      "country": "AU",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "NXDN"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.610540Z",
-      "description": "<p><strong>VK44 Network - Talkgroup 50524</strong></p>\r\n<p><strong>Purpose:&nbsp;</strong>VK-OzHUB</p>"
-    },
-    {
-      "designator": "URF550",
-      "name": null,
-      "slug": "urf550",
-      "url": "http://urf550.hanafarm.biz/",
-      "dns": "urf550.hanafarm.biz",
-      "ipv4": "70.35.200.63",
-      "ipv6": null,
-      "sponsor": "KY4VC",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "550-module-a",
-          "mode": "All",
-          "description": null,
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.569384Z",
-      "description": "<p>550 is a YSF Master, connect to urf550.hanafarm.biz , use DGID 10 for module A.&nbsp; Module A is bridged to ASL3 Node 590810 and EchoLink KY4VC-L Node 450801.</p>"
-    },
-    {
-      "designator": "URF552",
-      "name": "Northern Command",
-      "slug": "urf552",
-      "url": "http://w8hej.com",
-      "dns": "w8hej.com",
-      "ipv4": "75.134.188.237",
-      "ipv6": null,
-      "sponsor": null,
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "552-module-a",
-          "mode": "All",
-          "description": null,
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.763562Z",
-      "description": ""
-    },
-    {
-      "designator": "URF561",
-      "name": "AU-VK44-TG61",
-      "slug": "urf561",
-      "url": "https://tg61.vk44.net",
-      "dns": "tg61-yhsm.ref.vk44.net",
-      "ipv4": "44.32.8.4",
-      "ipv6": null,
-      "sponsor": "VK44 Network",
-      "country": "AU",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "NXDN"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.642429Z",
-      "description": "<p><strong>VK44 Network - Talkgroup 61</strong></p>\r\n<p><strong>Purpose:&nbsp;</strong>Horsham, Victoria Local Chat</p>"
-    },
-    {
-      "designator": "URF562",
-      "name": "AU-VK44-TG62",
-      "slug": "urf562",
-      "url": "https://tg62.vk44.net",
-      "dns": "tg62.ref.vk44.net",
-      "ipv4": "44.32.8.5",
-      "ipv6": null,
-      "sponsor": "VK44 Network",
-      "country": "AU",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "NXDN"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.608433Z",
-      "description": "<p><strong>VK44 Network - Talkgroup 62</strong></p>\r\n<p><strong>Purpose:&nbsp;</strong>VK3 2Mtr Linked System</p>"
-    },
-    {
-      "designator": "URF563",
-      "name": "AU-VK44-TG63",
-      "slug": "urf563",
-      "url": "https://tg63.vk44.net",
-      "dns": "tg63-serg.ref.vk44.net",
-      "ipv4": "44.32.8.6",
-      "ipv6": null,
-      "sponsor": "VK44 Network",
-      "country": "AU",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "NXDN"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.681181Z",
-      "description": "<p><strong>VK44 Network - Talkgroup 63</strong></p>\r\n<p><strong>Purpose:&nbsp;</strong>VK5 Repeater Network - South East Radio Group Linked</p>"
-    },
-    {
-      "designator": "URF564",
-      "name": "AU-VK44-TG64",
-      "slug": "urf564",
-      "url": "https://tg64.vk44.net",
-      "dns": "tg64.ref.vk44.net",
-      "ipv4": "44.32.8.7",
-      "ipv6": null,
-      "sponsor": "VK44 Network",
-      "country": "AU",
-      "enabled_modes": [
-        "M17",
-        "NXDN"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.671006Z",
-      "description": "<p><strong>TESTING ONLY</strong></p>"
-    },
-    {
       "designator": "URF587",
       "name": null,
       "slug": "urf587",
@@ -5364,212 +3273,6 @@
       "description": "<p>The Quadnet Digitial Voice Network, https://www.openquad.net</p>"
     },
     {
-      "designator": "URF621",
-      "name": "HRCC LINK",
-      "slug": "urf621",
-      "url": "https://urf.hrcc.link/",
-      "dns": "urf.hrcc.link",
-      "ipv4": "50.37.125.76",
-      "ipv6": null,
-      "sponsor": "Ham Radio Crash Course HRCC LINK",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "NXDN",
-        "P25",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "621-module-a",
-          "mode": "All",
-          "description": null,
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.558784Z",
-      "description": "<p>HRCC Link is a system of linked DV modes created for the<br>Ham Radio Crash Course community.</p>"
-    },
-    {
-      "designator": "URF645",
-      "name": "URF645 Multi-Mode Reflector PennLink Group",
-      "slug": "urf645",
-      "url": "https://xlx645.pennlinkgroup.com/urfd",
-      "dns": null,
-      "ipv4": "34.196.134.215",
-      "ipv6": "2600:1f18:174c:3f00:22bc:de7b:fa3d:1690",
-      "sponsor": "PennLink Group",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "645-module-a",
-          "mode": "All",
-          "description": "Cross-Mode Transcoded",
-          "transcode": true
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": "<p>URF645 is a full service, trancoded URF Cloud based Reflector</p>"
-    },
-    {
-      "designator": "URF658",
-      "name": "XLX658",
-      "slug": "urf658",
-      "url": "http://xlx658.ddns.net/",
-      "dns": "xlx658.ddns.net",
-      "ipv4": "45.79.238.109",
-      "ipv6": null,
-      "sponsor": null,
-      "country": "AU",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "NXDN",
-        "P25",
-        "YSF"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2025-11-18T01:02:06.714011Z",
-      "description": "<p>XLX658 Multiprotocol Reflector</p>"
-    },
-    {
-      "designator": "URF668",
-      "name": "US WCARS URF668",
-      "slug": "urf668",
-      "url": "https://urf.n9hxr.radio/",
-      "dns": "urf.n9hxr.radio",
-      "ipv4": "99.198.100.8",
-      "ipv6": null,
-      "sponsor": "Windy City Amateur Radio Society",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "668-module-a",
-          "mode": "All",
-          "description": "US-WCARS-CROSSMODE-URF668",
-          "transcode": true
-        },
-        {
-          "module": "B",
-          "slug": "668-module-b",
-          "mode": "D-Star (DPlus)",
-          "description": "US-WCARS-DSTAR-URF668",
-          "transcode": false
-        },
-        {
-          "module": "C",
-          "slug": "668-module-c",
-          "mode": "DMR",
-          "description": "US-WCARS-DMR-URF668",
-          "transcode": false
-        },
-        {
-          "module": "D",
-          "slug": "668-module-d",
-          "mode": "YSF",
-          "description": "US-WCARS-YSF-URF668",
-          "transcode": false
-        },
-        {
-          "module": "E",
-          "slug": "668-module-e",
-          "mode": "M17",
-          "description": "US-WCARS-M17-URF668",
-          "transcode": false
-        },
-        {
-          "module": "Z",
-          "slug": "668-module-z",
-          "mode": "DMR",
-          "description": "ECHO",
-          "transcode": false
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.811388Z",
-      "description": "<p>US WCARS URF668. Operated by N9HXR for the Windy City Amateur Radio Society. https://wcars.radio/</p>"
-    },
-    {
-      "designator": "URF700",
-      "name": "XLX-Reflector of PD3RFR",
-      "slug": "urf700",
-      "url": "http://xlx.pd3rfr.nl",
-      "dns": "dv.pd3rfr.nl",
-      "ipv4": "217.122.135.52",
-      "ipv6": null,
-      "sponsor": "PD3RFR",
-      "country": "NL",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "NXDN",
-        "P25",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "B",
-          "slug": "700-module-b",
-          "mode": "D-Star (DCS)",
-          "description": "DCS",
-          "transcode": false
-        },
-        {
-          "module": "D",
-          "slug": "700-module-d",
-          "mode": "YSF",
-          "description": "YSF",
-          "transcode": false
-        },
-        {
-          "module": "N",
-          "slug": "700-module-n",
-          "mode": "NXDN",
-          "description": "NXDN",
-          "transcode": false
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.843184Z",
-      "description": "<p>Experimental Reflector of PD3RFR</p>"
-    },
-    {
       "designator": "URF718",
       "name": "AllStarLink Italia",
       "slug": "urf718",
@@ -5606,7 +3309,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.678643Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.605768Z",
       "description": ""
     },
     {
@@ -5627,7 +3330,7 @@
       ],
       "modules": [],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.750239Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.651788Z",
       "description": "<p>TG Exclusivo para miembros de GRUPO DX RORAIMA&nbsp;</p>\r\n<p>Conectado a reflector multimodo (YSF/P25/NXDN) en http://163.176.241.126:42000</p>"
     },
     {
@@ -5647,41 +3350,8 @@
       ],
       "modules": [],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.685079Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.622390Z",
       "description": ""
-    },
-    {
-      "designator": "URF760",
-      "name": "URF-760",
-      "slug": "urf760",
-      "url": "http://xlx760.ddns.net",
-      "dns": "xlx760.ddns.net",
-      "ipv4": "47.6.86.199",
-      "ipv6": null,
-      "sponsor": "K6KWB",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "760-module-a",
-          "mode": "All",
-          "description": "Halo-Halo Network DStar DMR YSF by XPR Pinoy",
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.572307Z",
-      "description": "<p>URF760</p>\r\n<p>With a <strong>Halo Halo Network</strong>, it celebrates diversity and connection, mixing voices and cultures like the famous Filipino dessert: colorful, layered, and always refreshing. Add in the <strong>XPR Pinoy spirit</strong>, and you get a reflector that&rsquo;s proudly community‑driven, welcoming operators worldwide while keeping a strong Pinoy identity at its core.</p>\r\n<p><strong>In short:</strong> URF isn&rsquo;t just about linking modes&mdash;it&rsquo;s about linking people, networks, and cultures into one vibrant digital space.</p>"
     },
     {
       "designator": "URF847",
@@ -5713,120 +3383,8 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.622120Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.523556Z",
       "description": "<p>URF847 is a universal, multi-protocol digital voice reflector that supports D-Star protocols (DPlus, DCS, DExtra and G3), DMR protocols (MMDVMHost, DMR+ and NXDN), M17, P25 (using IMBE) and YSF.<br>&nbsp;<br>DCS847 A<br>REF847 A<br>XLX847 A<br>XRF847 A<br>&nbsp;<br>M17-847<br>NXDN TG 847<br>P25 TG 847<br>TGIF 30847<br>YSF 00847<br>&nbsp;<br>https://chandlerhams.org/reflector<br>&nbsp;<br>Chandler Ham Radio Club (N7CHN)</p>"
-    },
-    {
-      "designator": "URF902",
-      "name": "URF DVSwitch",
-      "slug": "urf902",
-      "url": "http://urfd.dvswitch.org/urf",
-      "dns": "urfd.dvswitch.org",
-      "ipv4": "45.42.215.8",
-      "ipv6": null,
-      "sponsor": "DVSwitch",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "D",
-          "slug": "902-module-d",
-          "mode": "DMR",
-          "description": "DVSwitch URF DMR",
-          "transcode": false
-        },
-        {
-          "module": "M",
-          "slug": "902-module-m",
-          "mode": "M17",
-          "description": "DVSwitch URF M17",
-          "transcode": false
-        },
-        {
-          "module": "N",
-          "slug": "902-module-n",
-          "mode": "NXDN",
-          "description": "DVSwitch URF NXDN",
-          "transcode": false
-        },
-        {
-          "module": "P",
-          "slug": "902-module-p",
-          "mode": "P25",
-          "description": "DVSwitch URF P25",
-          "transcode": false
-        },
-        {
-          "module": "Y",
-          "slug": "902-module-y",
-          "mode": "YSF",
-          "description": "DVSwitch URF YSF",
-          "transcode": false
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.583939Z",
-      "description": "<p>DVSwitch test</p>"
-    },
-    {
-      "designator": "URF914",
-      "name": "ARCA-CLUB",
-      "slug": "urf914",
-      "url": "http://47.156.44.132/",
-      "dns": "47.156.44.132",
-      "ipv4": "47.156.44.132",
-      "ipv6": null,
-      "sponsor": "N6RBH",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "914-module-a",
-          "mode": "All",
-          "description": "ARCA-CLUB",
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.555924Z",
-      "description": ""
-    },
-    {
-      "designator": "URF915",
-      "name": "CC-URF",
-      "slug": "urf915",
-      "url": "http://139.177.200.133",
-      "dns": "139.177.200.133",
-      "ipv4": "139.177.200.133",
-      "ipv6": null,
-      "sponsor": null,
-      "country": "US",
-      "enabled_modes": [
-        "M17",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.748173Z",
-      "description": ""
     },
     {
       "designator": "URF921",
@@ -5860,149 +3418,6 @@
       "ip_source": "static",
       "dns_cache_updated_at": null,
       "description": ""
-    },
-    {
-      "designator": "URF925",
-      "name": "925",
-      "slug": "urf925",
-      "url": "http://xlx925.hopto.org/index.php",
-      "dns": null,
-      "ipv4": "185.26.243.94",
-      "ipv6": null,
-      "sponsor": "MI5DAW",
-      "country": "GB",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": ""
-    },
-    {
-      "designator": "URF969",
-      "name": null,
-      "slug": "urf969",
-      "url": "http://urf.k0cks.com",
-      "dns": "urf.k0cks.com",
-      "ipv4": "184.55.34.255",
-      "ipv6": null,
-      "sponsor": "K0CKS / RRARC",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "969-module-a",
-          "mode": "All",
-          "description": "Transcode under construction",
-          "transcode": true
-        },
-        {
-          "module": "D",
-          "slug": "969-module-d",
-          "mode": "DMR",
-          "description": "Linked permanently to 31555 WI-DMR",
-          "transcode": false
-        },
-        {
-          "module": "M",
-          "slug": "969-module-m",
-          "mode": "M17",
-          "description": null,
-          "transcode": false
-        },
-        {
-          "module": "S",
-          "slug": "969-module-s",
-          "mode": "D-Star (DCS)",
-          "description": null,
-          "transcode": false
-        },
-        {
-          "module": "Z",
-          "slug": "969-module-z",
-          "mode": "All",
-          "description": "Temp",
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.560185Z",
-      "description": "<p>RRARC K0CKS Reflector</p>"
-    },
-    {
-      "designator": "URF994",
-      "name": "The Online Radio Group Reflector",
-      "slug": "urf994",
-      "url": "https://urf994.ddns.net",
-      "dns": "urf994.ddns.net",
-      "ipv4": "45.32.181.77",
-      "ipv6": null,
-      "sponsor": "G3AGM & MX0ONL",
-      "country": "GB",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "994-module-a",
-          "mode": "All",
-          "description": "Multi-mode transcoded",
-          "transcode": true
-        },
-        {
-          "module": "D",
-          "slug": "994-module-d",
-          "mode": "DMR",
-          "description": "DMR Chat",
-          "transcode": false
-        },
-        {
-          "module": "M",
-          "slug": "994-module-m",
-          "mode": "M17",
-          "description": "M17 Chat",
-          "transcode": false
-        },
-        {
-          "module": "S",
-          "slug": "994-module-s",
-          "mode": "D-Star (DExtra)",
-          "description": "D-Star chat",
-          "transcode": false
-        },
-        {
-          "module": "Y",
-          "slug": "994-module-y",
-          "mode": "YSF",
-          "description": "YSF Chat",
-          "transcode": false
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.644620Z",
-      "description": "<p>Reflector of The Online Radio Group (MX0ONL) managed by G3AGM</p>"
     },
     {
       "designator": "URF999",
@@ -6076,7 +3491,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.614450Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.669205Z",
       "description": "<p>Riflettore Universale connesso a \"<em><strong>Trani Conference</strong></em>\"<br>Server DMR&nbsp; basato sul&nbsp; HBLINK , col TG 8,&nbsp; interconnesso a sua volta con le<br>reti DMR: FREEDMR, ADN, TGIF, col TG 22276.<br>Connesso anche al sistema AllStarLink nodo n. 556990, Echolink I7IGX-R ed al sistema SVXlink italiano, col TG 76.</p>"
     },
     {
@@ -6103,243 +3518,6 @@
       ],
       "ip_source": "static",
       "dns_cache_updated_at": "2025-05-31T08:31:12.857348Z",
-      "description": ""
-    },
-    {
-      "designator": "URFCIS",
-      "name": "Cisar Italia Multireflecror",
-      "slug": "urfcis",
-      "url": "http://91.92.136.92/urfd/",
-      "dns": null,
-      "ipv4": "91.92.136.92",
-      "ipv6": null,
-      "sponsor": "IU7IGU",
-      "country": "IT",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "NXDN",
-        "P25",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "cis-module-a",
-          "mode": "All",
-          "description": "Cisar Italia",
-          "transcode": true
-        },
-        {
-          "module": "D",
-          "slug": "cis-module-d",
-          "mode": "DMR",
-          "description": "Cisar Lecce",
-          "transcode": false
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": ""
-    },
-    {
-      "designator": "URFCL1",
-      "name": "M17-CL1",
-      "slug": "urfcl1",
-      "url": "https://m17.radioaficion.pro/",
-      "dns": null,
-      "ipv4": "181.190.38.58",
-      "ipv6": null,
-      "sponsor": "CE3MRO",
-      "country": "CL",
-      "enabled_modes": [
-        "M17"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "cl1-module-a",
-          "mode": "M17",
-          "description": "M17-CL1",
-          "transcode": false
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": ""
-    },
-    {
-      "designator": "URFD7A",
-      "name": "NMLRN-LINK",
-      "slug": "urfd7a",
-      "url": null,
-      "dns": null,
-      "ipv4": "44.15.8.90",
-      "ipv6": null,
-      "sponsor": "N8DMH",
-      "country": "US",
-      "enabled_modes": [
-        "M17",
-        "P25",
-        "NXDN"
-      ],
-      "modules": [],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": "<p>Northern Michigan Linked Repeater Network URF reflector!</p>"
-    },
-    {
-      "designator": "URFDDC",
-      "name": "URF di IZ7DDC",
-      "slug": "urfddc",
-      "url": "http://iz7ddc.duckdns.org/urf/",
-      "dns": "iz7ddc.duckdns.org",
-      "ipv4": "79.41.39.154",
-      "ipv6": null,
-      "sponsor": "IZ7DDC",
-      "country": "IT",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "D",
-          "slug": "ddc-module-d",
-          "mode": "All",
-          "description": "under test",
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.575942Z",
-      "description": "<p>Test Personale</p>"
-    },
-    {
-      "designator": "URFEUS",
-      "name": "EUSKADI Multireflector",
-      "slug": "urfeus",
-      "url": "https://eus.ham-radio-op.net",
-      "dns": "eus.ham-radio-op.net",
-      "ipv4": "88.9.255.199",
-      "ipv6": null,
-      "sponsor": "EA2CQ",
-      "country": "ES",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "eus-module-a",
-          "mode": "All",
-          "description": null,
-          "transcode": true
-        },
-        {
-          "module": "D",
-          "slug": "eus-module-d",
-          "mode": "DMR",
-          "description": null,
-          "transcode": false
-        },
-        {
-          "module": "N",
-          "slug": "eus-module-n",
-          "mode": "NXDN",
-          "description": "TG60000",
-          "transcode": false
-        },
-        {
-          "module": "P",
-          "slug": "eus-module-p",
-          "mode": "P25",
-          "description": "TG60000",
-          "transcode": false
-        },
-        {
-          "module": "S",
-          "slug": "eus-module-s",
-          "mode": "D-Star (DCS)",
-          "description": null,
-          "transcode": true
-        },
-        {
-          "module": "Y",
-          "slug": "eus-module-y",
-          "mode": "YSF",
-          "description": "YSF60000",
-          "transcode": false
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.765174Z",
-      "description": ""
-    },
-    {
-      "designator": "URFFOX",
-      "name": "FOXHOLE-Under Construct.",
-      "slug": "urffox",
-      "url": "http://xlxfox.foxhole.radio",
-      "dns": "xlxfox.foxhole.radio",
-      "ipv4": "20.236.251.104",
-      "ipv6": null,
-      "sponsor": "KZ4FOX",
-      "country": "US",
-      "enabled_modes": [
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.624058Z",
-      "description": "<p>Under Constructions</p>"
-    },
-    {
-      "designator": "URFILS",
-      "name": "W9ILS - Indiana Link south",
-      "slug": "urfils",
-      "url": "http://216.176.97.14",
-      "dns": null,
-      "ipv4": "216.176.97.14",
-      "ipv6": null,
-      "sponsor": "W9ILS Digital Group",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "B",
-          "slug": "ils-module-b",
-          "mode": "YSF",
-          "description": "W9ILS - Indiana Link South",
-          "transcode": true
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
       "description": ""
     },
     {
@@ -6428,571 +3606,8 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.595323Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.587283Z",
       "description": "<p>This is the state wide multi-mode reflector for Indiana. All modes are active but the reflector is still being tested so may be down from time to time.</p>\r\n<p>&nbsp;</p>\r\n<p>The multi-mode reflector will allow users of one mode to talk with users of that and all other modes at the same time. Uses will include general rag-chewing, state level coordination, and Emergency Management support activities.</p>"
-    },
-    {
-      "designator": "URFITA",
-      "name": "FREEDMR ITALY MULTISTANDARD REFLECTOR",
-      "slug": "urfita",
-      "url": "https://urfita.freedmr.it",
-      "dns": "urfita.freedmr.it",
-      "ipv4": "44.31.102.138",
-      "ipv6": null,
-      "sponsor": "FreeDMR IT",
-      "country": "IT",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:46.141029Z",
-      "description": ""
-    },
-    {
-      "designator": "URFITM",
-      "name": "URF-ITM IT-MULTIPROTOCOL-NETWORK",
-      "slug": "urfitm",
-      "url": "http://urfitm.dyndns.org",
-      "dns": null,
-      "ipv4": "46.226.178.86",
-      "ipv6": null,
-      "sponsor": "IT-MULTIPROTOCOL-NETWORK",
-      "country": "IT",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "NXDN",
-        "P25",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "itm-module-a",
-          "mode": "DMR",
-          "description": "DMR+ DMO MODUL",
-          "transcode": false
-        },
-        {
-          "module": "B",
-          "slug": "itm-module-b",
-          "mode": "D-Star (DPlus)",
-          "description": "G3 ICOM PROTOCOL",
-          "transcode": false
-        },
-        {
-          "module": "C",
-          "slug": "itm-module-c",
-          "mode": "All",
-          "description": "IT-MULTIPROTOCOL-NETWORK",
-          "transcode": true
-        },
-        {
-          "module": "D",
-          "slug": "itm-module-d",
-          "mode": "M17",
-          "description": "M17 PROTOCOL",
-          "transcode": false
-        },
-        {
-          "module": "E",
-          "slug": "itm-module-e",
-          "mode": "D-Star (DPlus)",
-          "description": "DPLUS PROTOCOL",
-          "transcode": false
-        },
-        {
-          "module": "F",
-          "slug": "itm-module-f",
-          "mode": "D-Star (DExtra)",
-          "description": "DEXTRA PROTOCOL",
-          "transcode": false
-        },
-        {
-          "module": "G",
-          "slug": "itm-module-g",
-          "mode": "D-Star (DCS)",
-          "description": "DCS PROTOCOL",
-          "transcode": false
-        },
-        {
-          "module": "H",
-          "slug": "itm-module-h",
-          "mode": "DMR",
-          "description": "USRP PROTOCOL",
-          "transcode": false
-        },
-        {
-          "module": "I",
-          "slug": "itm-module-i",
-          "mode": "P25",
-          "description": "P25 PROTOCOL",
-          "transcode": false
-        },
-        {
-          "module": "J",
-          "slug": "itm-module-j",
-          "mode": "NXDN",
-          "description": "NXDN PROTOCOL",
-          "transcode": false
-        },
-        {
-          "module": "K",
-          "slug": "itm-module-k",
-          "mode": "YSF",
-          "description": "YSF PROTOCOL",
-          "transcode": false
-        },
-        {
-          "module": "L",
-          "slug": "itm-module-l",
-          "mode": "DMR",
-          "description": "MMDVM PROTOCOL",
-          "transcode": false
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": "<p><em><strong>URF-ITM&nbsp; &nbsp; &nbsp; &nbsp;IT-MULTIPROTOCOL-NETWORK&nbsp;</strong></em></p>\r\n<p>&nbsp;</p>"
-    },
-    {
-      "designator": "URFJET",
-      "name": "N6JET URF REFLECTOR",
-      "slug": "urfjet",
-      "url": "http://www.n6jet.com/urfjet/",
-      "dns": null,
-      "ipv4": "5.161.18.189",
-      "ipv6": null,
-      "sponsor": "N6JET",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "jet-module-a",
-          "mode": "DMR",
-          "description": "General Use",
-          "transcode": false
-        },
-        {
-          "module": "B",
-          "slug": "jet-module-b",
-          "mode": "DMR",
-          "description": "ADN Systems WW TG 91",
-          "transcode": false
-        },
-        {
-          "module": "C",
-          "slug": "jet-module-c",
-          "mode": "DMR",
-          "description": "AMCOMM DMR WW TG 91",
-          "transcode": false
-        },
-        {
-          "module": "D",
-          "slug": "jet-module-d",
-          "mode": "DMR",
-          "description": "DMR+ WW TG 1",
-          "transcode": false
-        },
-        {
-          "module": "E",
-          "slug": "jet-module-e",
-          "mode": "DMR",
-          "description": "Free DMR WW TG 91",
-          "transcode": false
-        },
-        {
-          "module": "F",
-          "slug": "jet-module-f",
-          "mode": "DMR",
-          "description": "FreeStar DMR WW TG91",
-          "transcode": false
-        },
-        {
-          "module": "G",
-          "slug": "jet-module-g",
-          "mode": "DMR",
-          "description": "Ham United DMR WW TG 91",
-          "transcode": false
-        },
-        {
-          "module": "H",
-          "slug": "jet-module-h",
-          "mode": "DMR",
-          "description": "Quadnet DMR WW TG 91",
-          "transcode": false
-        },
-        {
-          "module": "I",
-          "slug": "jet-module-i",
-          "mode": "DMR",
-          "description": "TGIF DMR WW TG 114",
-          "transcode": false
-        },
-        {
-          "module": "J",
-          "slug": "jet-module-j",
-          "mode": "NXDN",
-          "description": "NXDN WW TG 91",
-          "transcode": false
-        },
-        {
-          "module": "K",
-          "slug": "jet-module-k",
-          "mode": "P25",
-          "description": "P25 WW TG 91",
-          "transcode": false
-        },
-        {
-          "module": "L",
-          "slug": "jet-module-l",
-          "mode": "DMR",
-          "description": "ADN Systems USA TG 3100",
-          "transcode": false
-        },
-        {
-          "module": "M",
-          "slug": "jet-module-m",
-          "mode": "DMR",
-          "description": "AMCOMM DMR USA TG 3100",
-          "transcode": false
-        },
-        {
-          "module": "N",
-          "slug": "jet-module-n",
-          "mode": "DMR",
-          "description": "DMR+ North America TG 3",
-          "transcode": false
-        },
-        {
-          "module": "O",
-          "slug": "jet-module-o",
-          "mode": "DMR",
-          "description": "Free DMR USA TG 3100",
-          "transcode": false
-        },
-        {
-          "module": "P",
-          "slug": "jet-module-p",
-          "mode": "DMR",
-          "description": "System X DMR USA TG 3100",
-          "transcode": false
-        },
-        {
-          "module": "R",
-          "slug": "jet-module-r",
-          "mode": "DMR",
-          "description": "Ham United USA TG 3100",
-          "transcode": false
-        },
-        {
-          "module": "S",
-          "slug": "jet-module-s",
-          "mode": "DMR",
-          "description": "QuadNet DMR USA TG 310",
-          "transcode": false
-        },
-        {
-          "module": "T",
-          "slug": "jet-module-t",
-          "mode": "NXDN",
-          "description": "North America TG 10200",
-          "transcode": false
-        },
-        {
-          "module": "U",
-          "slug": "jet-module-u",
-          "mode": "P25",
-          "description": "WW 91",
-          "transcode": false
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": ""
-    },
-    {
-      "designator": "URFKXM",
-      "name": "K0XM URFD Reflector",
-      "slug": "urfkxm",
-      "url": "http://urfd.k0xm.net/urfd",
-      "dns": null,
-      "ipv4": "44.27.134.42",
-      "ipv6": null,
-      "sponsor": "K0XM",
-      "country": "US",
-      "enabled_modes": [
-        "M17",
-        "P25",
-        "NXDN"
-      ],
-      "modules": [
-        {
-          "module": "M",
-          "slug": "kxm-module-m",
-          "mode": "M17",
-          "description": null,
-          "transcode": false
-        },
-        {
-          "module": "N",
-          "slug": "kxm-module-n",
-          "mode": "NXDN",
-          "description": null,
-          "transcode": false
-        },
-        {
-          "module": "P",
-          "slug": "kxm-module-p",
-          "mode": "P25",
-          "description": null,
-          "transcode": false
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": ""
-    },
-    {
-      "designator": "URFLAN",
-      "name": "NW Multimode  Group - Reflector",
-      "slug": "urflan",
-      "url": "https://urf825.meshnetworks.co.uk/public",
-      "dns": "xlx.g6phf.co.uk",
-      "ipv4": "82.68.53.241",
-      "ipv6": null,
-      "sponsor": "G6PHF",
-      "country": "GB",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "lan-module-a",
-          "mode": "All",
-          "description": null,
-          "transcode": true
-        },
-        {
-          "module": "D",
-          "slug": "lan-module-d",
-          "mode": "All",
-          "description": "All digital modes - NWMG",
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.563343Z",
-      "description": "<p>One of the 2 core reflectors on the UK NWMG multimode digital voice network.</p>"
-    },
-    {
-      "designator": "URFLKA",
-      "name": "N6LKA SoCal Reflector",
-      "slug": "urflka",
-      "url": "http://ref.n6lka.com:4000",
-      "dns": "ref.n6lka.com",
-      "ipv4": "149.248.9.150",
-      "ipv6": null,
-      "sponsor": "N6LKA",
-      "country": "US",
-      "enabled_modes": [
-        "M17",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.686802Z",
-      "description": "<p>N6LKA SoCal Reflector</p>\r\n<p>This reflector is used to connect the N6LKA and AD5MT repeaters for each mode. Others are welcome to connect to this reflector.</p>"
-    },
-    {
-      "designator": "URFM17",
-      "name": "US-DroidStarNetXLXM17",
-      "slug": "urfm17",
-      "url": "http://XLXServer.duckdns.org",
-      "dns": "XLXServer.duckdns.org",
-      "ipv4": "45.79.204.38",
-      "ipv6": null,
-      "sponsor": "WW4SC",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "m17-module-a",
-          "mode": "YSF",
-          "description": "DroidStarNet",
-          "transcode": true
-        },
-        {
-          "module": "B",
-          "slug": "m17-module-b",
-          "mode": "All",
-          "description": null,
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.606755Z",
-      "description": "<p>DroidStar.Net</p>\r\n<p>XLXM17</p>"
-    },
-    {
-      "designator": "URFOKA",
-      "name": null,
-      "slug": "urfoka",
-      "url": "http://155.138.236.64/urf/dashboard/",
-      "dns": null,
-      "ipv4": "155.138.236.64",
-      "ipv6": null,
-      "sponsor": "Oklahoma ARES",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "oka-module-a",
-          "mode": "All",
-          "description": null,
-          "transcode": true
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": "2025-05-04T23:31:04.612232Z",
-      "description": "<p>URF reflector Oklahoma ARES.</p>"
-    },
-    {
-      "designator": "URFPAW",
-      "name": "11 Cats Radio Network (Module A)",
-      "slug": "urfpaw",
-      "url": "http://urfpaw.11cats.org",
-      "dns": "urfpaw.11cats.org",
-      "ipv4": "216.128.141.250",
-      "ipv6": null,
-      "sponsor": "KM5Y",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "paw-module-a",
-          "mode": "All",
-          "description": "11 Cats Radio Network",
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.717988Z",
-      "description": "<p>https://www.11cats.org</p>\r\n<p>PAW is a YSF Master:&nbsp; Connect to urfpaw.11cats.org, use DGID 10 for module A.</p>"
-    },
-    {
-      "designator": "URFPRC",
-      "name": "Foshan Multi-mode Reflector Service",
-      "slug": "urfprc",
-      "url": "http://urf.fmrs.cn:73",
-      "dns": "urf.fmrs.cn",
-      "ipv4": "120.197.207.2",
-      "ipv6": null,
-      "sponsor": "FMRS",
-      "country": "CN",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "prc-module-a",
-          "mode": "All",
-          "description": null,
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:46.178929Z",
-      "description": ""
-    },
-    {
-      "designator": "URFSCP",
-      "name": null,
-      "slug": "urfscp",
-      "url": "https://urf.iv3scp.it",
-      "dns": null,
-      "ipv4": "44.31.102.149",
-      "ipv6": null,
-      "sponsor": "iv3scp",
-      "country": "IT",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [],
-      "ip_source": "static",
-      "dns_cache_updated_at": null,
-      "description": ""
     },
     {
       "designator": "URFSFI",
@@ -7022,117 +3637,6 @@
       "description": "<p>Starfleet Amateur Radio Group - Trek Talk - N6SFI</p>"
     },
     {
-      "designator": "URFSIN",
-      "name": "Southern Indiana Network (SIN)",
-      "slug": "urfsin",
-      "url": "http://xlx.w9winxlx.us//",
-      "dns": null,
-      "ipv4": "64.112.234.163",
-      "ipv6": null,
-      "sponsor": "Southern Indiana Network",
-      "country": "US",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "sin-module-a",
-          "mode": "All",
-          "description": "All Southern Indiana  Network Protocols Dstar, P25, NXDN, M17,DMR, YSF",
-          "transcode": true
-        },
-        {
-          "module": "B",
-          "slug": "sin-module-b",
-          "mode": "All",
-          "description": "Chat Room Bravo",
-          "transcode": true
-        },
-        {
-          "module": "C",
-          "slug": "sin-module-c",
-          "mode": "All",
-          "description": "Chat Room Charlie",
-          "transcode": true
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": "2025-08-17T18:01:38.289535Z",
-      "description": "<p>Part of the W9WIN Linked Digital Repeater System and The Southern Indiana Network</p>"
-    },
-    {
-      "designator": "URFTBR",
-      "name": "India Multi Mode Universal Reflector",
-      "slug": "urftbr",
-      "url": "https://ysfindia.ddns.net",
-      "dns": "ysfindia.ddns.net",
-      "ipv4": "49.204.232.83",
-      "ipv6": null,
-      "sponsor": "VU3TBR",
-      "country": "IN",
-      "enabled_modes": [
-        "DMR",
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DExtra)",
-        "D-Star (DCS)",
-        "NXDN",
-        "P25",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "A",
-          "slug": "tbr-module-a",
-          "mode": "All",
-          "description": "All mode",
-          "transcode": true
-        }
-      ],
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-04-02T15:05:33.369406Z",
-      "description": "<p>URFTBR - India Multi Mode Universal Reflector</p>"
-    },
-    {
-      "designator": "URFURU",
-      "name": "UYURUGUAY.NET",
-      "slug": "urfuru",
-      "url": "http://uruguaynet.2mydns.net",
-      "dns": null,
-      "ipv4": "198.245.55.26",
-      "ipv6": null,
-      "sponsor": "CX3DW",
-      "country": "UY",
-      "enabled_modes": [
-        "M17",
-        "D-Star (DPlus)",
-        "D-Star (DCS)",
-        "P25",
-        "NXDN",
-        "YSF"
-      ],
-      "modules": [
-        {
-          "module": "B",
-          "slug": "uru-module-b",
-          "mode": "All",
-          "description": "Uruguay.net",
-          "transcode": true
-        }
-      ],
-      "ip_source": "static",
-      "dns_cache_updated_at": "2026-02-11T14:35:25.561430Z",
-      "description": ""
-    },
-    {
       "designator": "URFUYU",
       "name": "UYURUGUAY.NET",
       "slug": "urfuyu",
@@ -7149,7 +3653,7 @@
       ],
       "modules": [],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.607394Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.550104Z",
       "description": ""
     },
     {
@@ -7170,7 +3674,7 @@
       ],
       "modules": [],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-07-22T22:35:45.685668Z",
+      "dns_cache_updated_at": "2026-07-23T03:35:45.622883Z",
       "description": "<p>TG Exclusivo para miembros de la Net Digital Venezuela&nbsp;<br>Conectado a reflector multimodo (YSF/P25/NXDN) en http://163.176.241.126:42000</p>"
     }
   ]
