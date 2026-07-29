@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-07-29 12:16:42 UTC
+# Generated: 2026-07-29 15:16:45 UTC
 # Source:    https://refcheck.radio
 # ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP. Commercial Use Prohibited.
 #
@@ -99,7 +99,6 @@ M17-WAL 192.248.172.148 17000
 M17-XOR 138.199.236.169 17000
 M17-YAI 203.138.145.124 17000
 M17-YEG 219.117.204.205 17000
-URF213 143.47.34.183 17000
 URF217 100.36.101.23 17000
 URF218 138.128.247.74 17000
 URF277 67.207.37.195 17000
