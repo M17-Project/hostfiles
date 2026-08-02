@@ -1,9 +1,14 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-08-02 19:34:48 UTC
+# Generated: 2026-08-02 21:05:00 UTC
 # Source:    https://refcheck.radio
 # ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP. Commercial Use Prohibited.
+#
+# DVRef-derived data. Provided for this system’s approved use only.
+# No copying, redistribution, republication, incorporation into
+# another product or service, or automated downstream retrieval
+# without written permission from DVRef.com.
 #
 M17-002 89.240.4.99 17000
 M17-003 192.227.141.209 17000
@@ -109,7 +114,7 @@ URF363 212.88.159.19 17000
 URF420 198.58.163.12 17000
 URF517 67.212.42.234 17000
 URF587 104.8.207.66 17000
-URF668 104.21.69.55 17000
+URF668 99.198.100.8 17000
 URF718 66.45.238.67 17000
 URF847 98.171.104.209 17000
 URF921 89.240.4.99 17000
