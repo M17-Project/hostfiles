@@ -1,14 +1,11 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-08-04 21:25:47 UTC
+# Generated: 2026-08-04 23:11:08 UTC
 # Source:    https://refcheck.radio
-# ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP. Commercial Use Prohibited.
+# ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP
 #
-# DVRef-derived data. Provided for this system’s approved use only.
-# No copying, redistribution, republication, incorporation into
-# another product or service, or automated downstream retrieval
-# without written permission from DVRef.com.
+# Reflector data provided by DVRef — https://dvref.com/aup/
 #
 M17-002 89.240.4.99 17000
 M17-003 192.227.141.209 17000
