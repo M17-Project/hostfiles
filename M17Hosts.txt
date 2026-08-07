@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-08-07 20:17:35 UTC
+# Generated: 2026-08-07 21:31:41 UTC
 # Source:    https://refcheck.radio
 # ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP
 #
@@ -87,7 +87,7 @@ M17-PNW 45.77.214.232 17000
 M17-POR 5.135.13.79 17000
 M17-PPP 69.251.56.54 17000
 M17-QDR 158.180.80.27 17000
-M17-QRZ 72.251.7.23 17002
+M17-QRZ 46.59.68.211 17002
 M17-RLX 212.227.105.8 17000
 M17-SAT 45.56.111.31 17000
 M17-SCS 45.77.119.250 17000
