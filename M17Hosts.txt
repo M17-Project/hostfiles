@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-08-15 18:32:24 UTC
+# Generated: 2026-08-15 19:32:24 UTC
 # Source:    https://refcheck.radio
 # ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP
 #
@@ -109,6 +109,7 @@ M17-YEG 219.117.204.205 17000
 M17-ZOM 45.76.30.167 17003
 URF018 189.44.229.62 17000
 URF070 186.193.221.178 17000
+URF097 140.82.24.7 17000
 URF105 193.202.85.87 17000
 URF213 143.47.34.183 17000
 URF217 100.36.101.23 17000
