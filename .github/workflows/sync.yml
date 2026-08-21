@@ -24,24 +24,19 @@ jobs:
       - name: Fetch hostfiles
         env:
           UA: ${{ secrets.REFCHECK_USER_AGENT }}
+          TOKEN: ${{ secrets.REFCHECK_TOKEN }}
         run: |
           if [ -z "$UA" ]; then
             echo "REFCHECK_USER_AGENT secret is not set." >&2
             exit 1
           fi
-          for f in M17Hosts.txt M17Hosts.json; do
+          for f in '' '/json'; do
             curl -v --fail --show-error --silent \
               --retry 5 --retry-delay 10 --retry-all-errors \
               --max-time 60 \
-              -A "$UA" \
+              -H "Authorization: Token $TOKEN" \
               -o "$f.new" \
-              "https://m17-project.github.io/hostfiles/$f"
-            curl -v --fail --show-error --silent \
-              --retry 5 --retry-delay 10 --retry-all-errors \
-              --max-time 60 \
-              -A "$UA" \
-              -o "$f.new" \
-              "https://hostfiles.refcheck.radio/$f"
+              "https://refcheck.radio/api/hostfile-gate/fetch$f/m17/"
           done
 
       - name: Replace if changed
