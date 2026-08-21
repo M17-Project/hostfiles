@@ -23,11 +23,10 @@ jobs:
 
       - name: Fetch hostfiles
         env:
-          UA: ${{ secrets.REFCHECK_USER_AGENT }}
           TOKEN: ${{ secrets.REFCHECK_TOKEN }}
         run: |
-          if [ -z "$UA" ]; then
-            echo "REFCHECK_USER_AGENT secret is not set." >&2
+          if [ -z "$TOKEN" ]; then
+            echo "REFCHECK_TOKEN secret is not set." >&2
             exit 1
           fi
           for f in '' '/json'; do
