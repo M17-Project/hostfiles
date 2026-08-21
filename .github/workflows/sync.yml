@@ -29,14 +29,18 @@ jobs:
             echo "REFCHECK_TOKEN secret is not set." >&2
             exit 1
           fi
-          for f in '' '/json'; do
-            curl -v --fail --show-error --silent \
-              --retry 5 --retry-delay 10 --retry-all-errors \
-              --max-time 60 \
-              -H "Authorization: Token $TOKEN" \
-              -o "$f.new" \
-              "https://refcheck.radio/api/hostfile-gate/fetch$f/m17/"
-          done
+          curl -v --fail --show-error --silent \
+            --retry 5 --retry-delay 10 --retry-all-errors \
+            --max-time 60 \
+            -H "Authorization: Token $TOKEN" \
+            -o "M17Hosts.txt.new" \
+            "https://refcheck.radio/api/hostfile-gate/fetch/m17/"
+          curl -v --fail --show-error --silent \
+            --retry 5 --retry-delay 10 --retry-all-errors \
+            --max-time 60 \
+            -H "Authorization: Token $TOKEN" \
+            -o "M17Hosts.json.new" \
+            "https://refcheck.radio/api/hostfile-gate/fetch/json/m17/"
 
       - name: Replace if changed
         id: diff
