@@ -1,12 +1,13 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-08-22 01:48:40 UTC
+# Generated: 2026-08-22 04:47:28 UTC
 # Source:    https://refcheck.radio
 # ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP
 #
 # Reflector data provided by DVRef — https://dvref.com/aup/
 #
+M17-003 192.227.141.209 17000
 M17-005 45.77.223.78 17000
 M17-018 189.44.229.62 17000
 M17-020 66.175.215.217 17000
@@ -95,6 +96,7 @@ M17-SLB 165.73.249.152 17000
 M17-SWD 45.32.239.121 17000
 M17-UT0 164.92.99.19 17000
 M17-WAL 192.248.172.148 17000
+M17-WIL 72.222.219.41 17000
 M17-XOR 138.199.236.169 17000
 M17-YAI 203.138.145.124 17000
 M17-YEG 219.117.204.205 17000
