@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-09-10 22:34:01 UTC
+# Generated: 2026-09-11 04:36:14 UTC
 # Source:    https://refcheck.radio
 # ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP
 #
@@ -112,6 +112,7 @@ URF217 100.36.101.23 17000
 URF218 138.128.247.74 17000
 URF269 44.31.0.6 17000
 URF277 67.207.37.195 17000
+URF307 72.21.76.154 17000
 URF363 212.88.159.19 17000
 URF517 67.212.42.234 17000
 URF587 104.8.207.66 17000
