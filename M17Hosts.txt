@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-09-30 20:47:55 UTC
+# Generated: 2026-10-01 05:47:32 UTC
 # Source:    https://refcheck.radio
 # ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP
 #
@@ -86,7 +86,6 @@ M17-MEX 201.137.91.124 17000
 M17-NCA 74.91.114.88 17000
 M17-NET 45.76.255.39 17000
 M17-NLD 51.83.46.75 17000
-M17-NZD 152.67.100.199 17000
 M17-OBX 159.89.80.82 17000
 M17-OMO 5.78.179.25 17000
 M17-PHP 107.152.47.152 17000
