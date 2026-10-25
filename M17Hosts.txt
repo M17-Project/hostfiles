@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-10-25 13:09:47 UTC
+# Generated: 2026-10-25 19:01:12 UTC
 # Source:    https://refcheck.radio
 # ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP
 #
@@ -87,7 +87,6 @@ M17-FOG 95.179.203.54 17000
 M17-FR2 51.75.127.224 17000
 M17-FRA 82.64.201.234 17100
 M17-FVG 44.31.102.45 17000
-M17-HAM 64.177.10.64 17000
 M17-IP6 2401:c080:2000:2c78:5400:4ff:fe51:7afe 17000
 M17-IS0 51.254.206.201 17000
 M17-ITA 44.31.102.131 17000
