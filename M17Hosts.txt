@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-10-29 05:42:52 UTC
+# Generated: 2026-10-29 15:12:14 UTC
 # Source:    https://refcheck.radio
 # ...by the RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP
 #
@@ -125,6 +125,7 @@ M17-SLB 155.117.46.188 17000
 M17-SPY 172.235.134.38 17000
 M17-SVD 82.165.165.43 17000
 M17-SWD 45.32.239.121 17000
+M17-THA 183.88.224.213 17000
 M17-UT0 164.92.99.19 17000
 M17-WAL 192.248.172.148 17000
 M17-WIL 72.222.219.41 17000
