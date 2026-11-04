@@ -2,7 +2,7 @@
   "_refcheck_metadata": {
     "filename": "M17Hosts.json",
     "source_url": "https://refcheck.radio",
-    "generated": "2026-11-04 12:04:12 UTC",
+    "generated": "2026-11-04 19:42:48 UTC",
     "processor": "RefCheck.Radio Hostfile Processor; Chip Cuccio - W0CHP",
     "license": "Reflector data provided by DVRef — https://dvref.com/aup/"
   },
@@ -23,7 +23,7 @@
       "sponsor": "cumbriaCQ.com",
       "country": "GB",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.774380Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.797573Z",
       "last_verified_at": "2026-09-04T20:10:34.689206Z",
       "network_type": "business"
     },
@@ -112,7 +112,7 @@
       "sponsor": "PY2PE",
       "country": "BR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.737182Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.795558Z",
       "last_verified_at": "2026-10-27T17:20:23.243607Z",
       "network_type": "business"
     },
@@ -133,7 +133,7 @@
       "sponsor": "020 Digital Multiprotocol Group",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.894643Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.938000Z",
       "last_verified_at": "2026-11-01T11:47:02.343789Z",
       "network_type": "hosting"
     },
@@ -178,7 +178,7 @@
       "sponsor": null,
       "country": "LU",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.967058Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:34.082517Z",
       "last_verified_at": "2026-10-24T11:06:24.316405Z",
       "network_type": "residential"
     },
@@ -270,7 +270,7 @@
       "sponsor": "ne-dstar.org",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.758098Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.808927Z",
       "last_verified_at": "2026-10-22T18:34:52.788884Z",
       "network_type": "hosting"
     },
@@ -290,7 +290,7 @@
       "sponsor": "PY4EI",
       "country": "BR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.902230Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.793862Z",
       "last_verified_at": "2026-07-24T20:48:36.960026Z",
       "network_type": "residential"
     },
@@ -355,7 +355,7 @@
       "sponsor": "PY4EI",
       "country": "BR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.923522Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.958957Z",
       "last_verified_at": "2026-07-24T20:49:00Z",
       "network_type": "business"
     },
@@ -420,7 +420,7 @@
       "sponsor": "SV1IW",
       "country": "GR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.847866Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.880105Z",
       "last_verified_at": "2026-10-30T08:26:36.856743Z",
       "network_type": "hosting"
     },
@@ -465,7 +465,7 @@
       "sponsor": "XLX137",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.832232Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.797887Z",
       "last_verified_at": "2026-07-24T20:50:10Z",
       "network_type": "business"
     },
@@ -507,7 +507,7 @@
       "sponsor": "ne-dstar.org",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.830911Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.868078Z",
       "last_verified_at": "2026-10-22T15:12:32.193677Z",
       "network_type": "hosting"
     },
@@ -670,7 +670,7 @@
       "sponsor": "Digital Voice GREECE",
       "country": "GR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.733863Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.788754Z",
       "last_verified_at": "2026-10-08T15:18:19.766896Z",
       "network_type": "residential"
     },
@@ -715,7 +715,7 @@
       "sponsor": "K2HZE",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.905638Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.923352Z",
       "last_verified_at": "2026-10-23T00:23:26.915247Z",
       "network_type": "hosting"
     },
@@ -825,7 +825,7 @@
       "sponsor": "FLEX RADIO",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.864572Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.907403Z",
       "last_verified_at": "2026-11-03T19:42:55.271193Z",
       "network_type": "hosting"
     },
@@ -897,7 +897,7 @@
       "sponsor": "HELLAS Zone Net! By SA7SVR",
       "country": "GR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.772357Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.839283Z",
       "last_verified_at": "2026-07-25T00:20:30.913745Z",
       "network_type": "business"
     },
@@ -964,7 +964,7 @@
       "sponsor": "W1BSB",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.751733Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.830554Z",
       "last_verified_at": "2026-11-01T04:00:02.972334Z",
       "network_type": "hosting"
     },
@@ -1009,7 +1009,7 @@
       "sponsor": "AK4ZX",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.866619Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.909252Z",
       "last_verified_at": "2026-10-24T19:48:19.446476Z",
       "network_type": "residential"
     },
@@ -1054,7 +1054,7 @@
       "sponsor": "Chaverim of Greater Washington DC",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.736023Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.796630Z",
       "last_verified_at": "2026-10-12T05:21:33.905634Z",
       "network_type": "hosting"
     },
@@ -1099,7 +1099,7 @@
       "sponsor": "145500.xyz",
       "country": "RO",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.861512Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.888096Z",
       "last_verified_at": "2026-10-29T14:20:50.772798Z",
       "network_type": "hosting"
     },
@@ -1171,7 +1171,7 @@
       "sponsor": null,
       "country": "LU",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.998788Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:34.157732Z",
       "last_verified_at": "2026-10-17T13:10:52.031216Z",
       "network_type": "residential"
     },
@@ -1191,7 +1191,7 @@
       "sponsor": "DMR TÜRKİYE",
       "country": "TR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.848982Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.791680Z",
       "last_verified_at": "2026-10-01T08:40:20.601807Z",
       "network_type": "business"
     },
@@ -1211,7 +1211,7 @@
       "sponsor": "WG5EEK",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.735478Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.795050Z",
       "last_verified_at": "2026-10-15T02:29:47.891698Z",
       "network_type": "residential"
     },
@@ -1231,7 +1231,7 @@
       "sponsor": "WX9KVH",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.902396Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.922166Z",
       "last_verified_at": "2026-07-25T00:32:23.781340Z",
       "network_type": "hosting"
     },
@@ -1252,7 +1252,7 @@
       "sponsor": "Rana QQ",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.790676Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.840219Z",
       "last_verified_at": "2026-07-25T00:32:31.363261Z",
       "network_type": "hosting"
     },
@@ -1296,7 +1296,7 @@
       "sponsor": "VK4MCU",
       "country": "AU",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.760437Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.812373Z",
       "last_verified_at": "2026-10-30T02:53:03.483094Z",
       "network_type": "residential"
     },
@@ -1489,7 +1489,7 @@
       "sponsor": "9W2LWK",
       "country": "MY",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.769924Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.825424Z",
       "last_verified_at": "2026-10-31T10:24:04.661643Z",
       "network_type": "hosting"
     },
@@ -1534,29 +1534,9 @@
       "sponsor": "RadioSC",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.846820Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.878271Z",
       "last_verified_at": "2026-10-31T03:35:59.267931Z",
       "network_type": "hosting"
-    },
-    {
-      "designator": "M17-555",
-      "name": "Just an average M17 reflector",
-      "slug": "m17-555",
-      "url": "http://m17.ne5ie.com",
-      "dns": "m17.ne5ie.com",
-      "ipv4": "172.7.228.182",
-      "ipv6": null,
-      "modules": [
-        "A"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "NE5IE",
-      "country": "US",
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.780642Z",
-      "last_verified_at": "2026-10-14T21:45:22.644993Z",
-      "network_type": "residential"
     },
     {
       "designator": "M17-556",
@@ -1577,7 +1557,7 @@
       "sponsor": "KQ4TNV",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.771799Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.820329Z",
       "last_verified_at": "2026-08-01T04:11:27.351808Z",
       "network_type": "residential"
     },
@@ -1622,7 +1602,7 @@
       "sponsor": "HS5BLO",
       "country": "TH",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.772909Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.844525Z",
       "last_verified_at": "2026-07-25T00:34:38.351047Z",
       "network_type": "business"
     },
@@ -1693,7 +1673,7 @@
       "sponsor": "PD3RFR",
       "country": "NL",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:34.372876Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:34.410776Z",
       "last_verified_at": "2026-10-31T23:49:04.222480Z",
       "network_type": "residential"
     },
@@ -1714,7 +1694,7 @@
       "sponsor": "Allstar_515930-Net.IT_Hub",
       "country": "IT",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.729002Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.787907Z",
       "last_verified_at": "2026-07-25T00:34:58.694356Z",
       "network_type": "hosting"
     },
@@ -1779,7 +1759,7 @@
       "sponsor": "RAAG",
       "country": "GR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:34.046565Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:34.110759Z",
       "last_verified_at": "2026-10-30T08:21:21.839673Z",
       "network_type": "business"
     },
@@ -1802,7 +1782,7 @@
       "sponsor": "WE0FUN Fun Machine Linked Repeater System",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.764100Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.818830Z",
       "last_verified_at": "2026-07-25T00:35:26.764989Z",
       "network_type": "business"
     },
@@ -1892,7 +1872,7 @@
       "sponsor": "WMRA",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.810139Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.852125Z",
       "last_verified_at": "2026-10-31T23:37:30.296579Z",
       "network_type": "hosting"
     },
@@ -1957,7 +1937,7 @@
       "sponsor": "E20AE",
       "country": "TH",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.765481Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.886645Z",
       "last_verified_at": "2026-07-25T00:36:00.814977Z",
       "network_type": "hosting"
     },
@@ -1977,7 +1957,7 @@
       "sponsor": "XLX910 - Washington, DC - Maryland - Virginia",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.832393Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.831977Z",
       "last_verified_at": "2026-07-25T00:36:10.682150Z",
       "network_type": "mobile"
     },
@@ -2042,7 +2022,7 @@
       "sponsor": "EA8EE",
       "country": "ES",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.914338Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.938760Z",
       "last_verified_at": "2026-10-07T16:14:28.551334Z",
       "network_type": "hosting"
     },
@@ -2062,7 +2042,7 @@
       "sponsor": "HS0ZOE",
       "country": "TH",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.749130Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.816592Z",
       "last_verified_at": "2026-07-25T00:36:41.737125Z",
       "network_type": "hosting"
     },
@@ -2133,53 +2113,8 @@
       "sponsor": null,
       "country": "LU",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.997463Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:34.080250Z",
       "last_verified_at": "2026-10-24T10:53:05.957523Z",
-      "network_type": "residential"
-    },
-    {
-      "designator": "M17-976",
-      "name": "XLX976 M17 Reflector",
-      "slug": "m17-976",
-      "url": "https://xlx976.f8kgk.fr",
-      "dns": "xlx976.f8kgk.fr",
-      "ipv4": "80.12.83.150",
-      "ipv6": null,
-      "modules": [
-        "V",
-        "Y",
-        "K",
-        "N",
-        "W",
-        "F",
-        "H",
-        "M",
-        "P",
-        "C",
-        "Z",
-        "B",
-        "G",
-        "T",
-        "J",
-        "L",
-        "X",
-        "S",
-        "I",
-        "D",
-        "Q",
-        "U",
-        "A",
-        "R",
-        "E",
-        "O"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "F8KGK HamClub Station",
-      "country": "FR",
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:34.149943Z",
-      "last_verified_at": "2026-10-24T19:23:59.188841Z",
       "network_type": "residential"
     },
     {
@@ -2313,7 +2248,7 @@
       "sponsor": "Backyard Repeater Group",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.788485Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.840075Z",
       "last_verified_at": "2026-10-02T17:55:02.732613Z",
       "network_type": "hosting"
     },
@@ -2333,7 +2268,7 @@
       "sponsor": null,
       "country": "AU",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.745901Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.822572Z",
       "last_verified_at": "2026-08-19T04:40:08.909842Z",
       "network_type": "hosting"
     },
@@ -2365,6 +2300,26 @@
       "dns_cache_updated_at": null,
       "last_verified_at": "2026-07-25T00:37:34.492978Z",
       "network_type": "business"
+    },
+    {
+      "designator": "M17-CEL",
+      "name": "Funknetz-Celle",
+      "slug": "m17-cel",
+      "url": "http://85.215.198.111:8970",
+      "dns": null,
+      "ipv4": "85.215.198.111",
+      "ipv6": null,
+      "modules": [
+        "A"
+      ],
+      "encrypted": [],
+      "port": 17000,
+      "sponsor": "DL2OAM",
+      "country": "DE",
+      "ip_source": "static",
+      "dns_cache_updated_at": null,
+      "last_verified_at": "2026-08-18T10:48:55.696429Z",
+      "network_type": "hosting"
     },
     {
       "designator": "M17-CZ0",
@@ -2409,7 +2364,7 @@
       "sponsor": "ok1lbc",
       "country": "CZ",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:34.148050Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:34.220462Z",
       "last_verified_at": "2026-07-25T00:38:32.098041Z",
       "network_type": "residential"
     },
@@ -2451,7 +2406,7 @@
       "sponsor": "KN1B- Doghouse Network",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.736571Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.796047Z",
       "last_verified_at": "2026-07-30T19:20:34.100092Z",
       "network_type": "residential"
     },
@@ -2474,7 +2429,7 @@
       "sponsor": "freestar.network",
       "country": "GB",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.732657Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.793223Z",
       "last_verified_at": "2026-08-18T23:25:55.127324Z",
       "network_type": "residential"
     },
@@ -2519,7 +2474,7 @@
       "sponsor": "HS1AB",
       "country": "TH",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.784249Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.819575Z",
       "last_verified_at": "2026-07-25T00:38:43.296296Z",
       "network_type": "business"
     },
@@ -2547,7 +2502,7 @@
       "sponsor": "w6vs",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.750344Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.797109Z",
       "last_verified_at": "2026-09-18T19:28:22.162199Z",
       "network_type": "hosting"
     },
@@ -2615,7 +2570,7 @@
       "sponsor": "F4LML",
       "country": "FR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.832960Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.995643Z",
       "last_verified_at": "2026-10-17T13:49:36.416661Z",
       "network_type": "hosting"
     },
@@ -2635,7 +2590,7 @@
       "sponsor": "F5DAN",
       "country": "FR",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.961975Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.921116Z",
       "last_verified_at": "2026-10-23T03:40:14.434368Z",
       "network_type": "business"
     },
@@ -2658,7 +2613,7 @@
       "sponsor": "ARI F.V.G.",
       "country": "IT",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:34.038021Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.934331Z",
       "last_verified_at": "2026-07-25T00:39:17.968644Z",
       "network_type": "business"
     },
@@ -2817,7 +2772,7 @@
       "sponsor": "IZ0THD",
       "country": "IT",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.731331Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.785636Z",
       "last_verified_at": "2026-11-01T14:57:45.174338Z",
       "network_type": "business"
     },
@@ -2885,7 +2840,7 @@
       "sponsor": "SP5PA",
       "country": "PL",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.775032Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.853326Z",
       "last_verified_at": "2026-09-12T17:56:59.560216Z",
       "network_type": "hosting"
     },
@@ -3030,7 +2985,7 @@
       "sponsor": "David PA7LIM",
       "country": "NL",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:34.012316Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.946703Z",
       "last_verified_at": "2026-07-25T00:41:09.494689Z",
       "network_type": "business"
     },
@@ -3165,7 +3120,7 @@
       "sponsor": "K8LRC",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.768086Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.820850Z",
       "last_verified_at": "2026-10-02T22:51:27.529770Z",
       "network_type": "hosting"
     },
@@ -3188,32 +3143,8 @@
       "sponsor": "K0RET",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.831607Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.855473Z",
       "last_verified_at": "2026-09-20T15:20:04.887934Z",
-      "network_type": "business"
-    },
-    {
-      "designator": "M17-MEX",
-      "name": null,
-      "slug": "m17-mex",
-      "url": "https://m17.xe1e.net",
-      "dns": "m17.xe1e.net",
-      "ipv4": "201.137.58.101",
-      "ipv6": null,
-      "modules": [
-        "B",
-        "A",
-        "X",
-        "C",
-        "D"
-      ],
-      "encrypted": [],
-      "port": 17000,
-      "sponsor": "XE1E",
-      "country": "MX",
-      "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.825848Z",
-      "last_verified_at": "2026-07-25T00:41:24.277264Z",
       "network_type": "business"
     },
     {
@@ -3235,7 +3166,7 @@
       "sponsor": "K6HP",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.764757Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.833232Z",
       "last_verified_at": "2026-07-25T00:41:31.725888Z",
       "network_type": "residential"
     },
@@ -3255,7 +3186,7 @@
       "sponsor": "KN4EWT",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:34.045222Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:34.075445Z",
       "last_verified_at": "2026-11-01T23:54:56.177199Z",
       "network_type": "hosting"
     },
@@ -3323,7 +3254,7 @@
       "sponsor": "WB8OUE",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.838350Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.876986Z",
       "last_verified_at": "2026-09-26T18:15:33.965934Z",
       "network_type": "hosting"
     },
@@ -3457,7 +3388,7 @@
       "sponsor": "KJ7T",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.835762Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.857237Z",
       "last_verified_at": "2026-10-19T15:57:14.242534Z",
       "network_type": "hosting"
     },
@@ -3481,6 +3412,30 @@
       "dns_cache_updated_at": null,
       "last_verified_at": "2026-07-25T00:42:50.058833Z",
       "network_type": "hosting"
+    },
+    {
+      "designator": "M17-PPP",
+      "name": "M17-PPP",
+      "slug": "m17-ppp",
+      "url": null,
+      "dns": null,
+      "ipv4": "69.251.56.54",
+      "ipv6": null,
+      "modules": [
+        "B",
+        "A",
+        "E",
+        "C",
+        "D"
+      ],
+      "encrypted": [],
+      "port": 17000,
+      "sponsor": "N6PPP",
+      "country": "US",
+      "ip_source": "static",
+      "dns_cache_updated_at": null,
+      "last_verified_at": "2026-07-25T00:43:28.128451Z",
+      "network_type": "business"
     },
     {
       "designator": "M17-REM",
@@ -3663,7 +3618,7 @@
       "sponsor": "Lookout Mountain Amateur Radio Community",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.741629Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.807592Z",
       "last_verified_at": "2026-07-25T00:44:40.781927Z",
       "network_type": "hosting"
     },
@@ -3709,7 +3664,7 @@
       "sponsor": "K6BIV",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.766674Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.790166Z",
       "last_verified_at": "2026-09-29T19:49:03.409373Z",
       "network_type": "business"
     },
@@ -3786,7 +3741,7 @@
       "sponsor": null,
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.770865Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.823152Z",
       "last_verified_at": "2026-10-15T08:05:11.942872Z",
       "network_type": "hosting"
     },
@@ -3904,7 +3859,7 @@
       "sponsor": "HS5TQA",
       "country": "TH",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:34.300316Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:34.350023Z",
       "last_verified_at": "2026-10-29T08:30:18.224940Z",
       "network_type": "residential"
     },
@@ -3927,7 +3882,7 @@
       "sponsor": "Utah Digital Repeater Network",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.734427Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.790814Z",
       "last_verified_at": "2026-07-25T00:45:52.336003Z",
       "network_type": "hosting"
     },
@@ -3992,7 +3947,7 @@
       "sponsor": "KE7WIL",
       "country": "US",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.734947Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.792526Z",
       "last_verified_at": "2026-09-10T16:30:01.581303Z",
       "network_type": "business"
     },
@@ -4039,7 +3994,7 @@
       "sponsor": "JA3YAI",
       "country": "JP",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:34.193952Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:34.208487Z",
       "last_verified_at": "2026-07-25T00:46:14.677447Z",
       "network_type": "business"
     },
@@ -4088,7 +4043,7 @@
       "sponsor": "2E0LXY",
       "country": "GB",
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:18:33.733282Z",
+      "dns_cache_updated_at": "2026-11-04T18:48:33.783608Z",
       "last_verified_at": "2026-10-05T20:20:04.290835Z",
       "network_type": "hosting"
     },
@@ -4147,7 +4102,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.152219Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.257873Z",
       "network_type": "business",
       "description": ""
     },
@@ -4206,7 +4161,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.497767Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.464669Z",
       "network_type": "residential",
       "description": ""
     },
@@ -4237,7 +4192,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.091774Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.269496Z",
       "network_type": "hosting",
       "description": ""
     },
@@ -4354,7 +4309,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.080876Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.182726Z",
       "network_type": "hosting",
       "description": "<p>Andorra Multiprotocol</p>"
     },
@@ -4419,7 +4374,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.092489Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.635770Z",
       "network_type": "business",
       "description": "<p>Testbed for experimentation and host for Chaverim TAC2.</p>"
     },
@@ -4493,7 +4448,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.153598Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.262535Z",
       "network_type": "residential",
       "description": "<p>the URF269 is used as main Reflector for the multimode Germany Hessen/RLP on Modul A. Currently the 2urfd version from N7TAE is used with local transcoding. Server is running in the HAMNET network but reachable via public internet.</p>"
     },
@@ -4519,7 +4474,7 @@
       ],
       "modules": [],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.117364Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.224827Z",
       "network_type": "hosting",
       "description": ""
     },
@@ -4742,7 +4697,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.088057Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.202796Z",
       "network_type": "business",
       "description": "<p>URF363 - Saarland - Multimode Bridge (XLX363)</p>"
     },
@@ -4776,7 +4731,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.116645Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.221394Z",
       "network_type": "residential",
       "description": ""
     },
@@ -4976,7 +4931,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.244159Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.359548Z",
       "network_type": "hosting",
       "description": "<p>US WCARS URF668. Operated by N9HXR for the Windy City Amateur Radio Society. https://wcars.radio/</p>"
     },
@@ -5038,7 +4993,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.122986Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.181641Z",
       "network_type": "residential",
       "description": "<p>Experimental Reflector of PD3RFR</p>"
     },
@@ -5079,7 +5034,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.145171Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.252622Z",
       "network_type": "hosting",
       "description": ""
     },
@@ -5132,7 +5087,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.299284Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.474883Z",
       "network_type": "business",
       "description": "<p><strong>XLX Wallonie - <em>Belgique</em><em> francophone</em></strong><br>XLXD Multiprotocol Gateway Reflector (DMR C4FM D-STAR NXDN).</p>\r\n<p><strong>No transcoding.</strong></p>"
     },
@@ -5291,7 +5246,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.135287Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.356654Z",
       "network_type": "business",
       "description": "<p>Riflettore Universale connesso a \"<em><strong>Trani Conference</strong></em>\"<br>Server DMR&nbsp; basato sul&nbsp; HBLINK , col TG 8,&nbsp; interconnesso a sua volta con le<br>reti DMR: FREEDMR, ADN, TGIF, col TG 22276.<br>Connesso anche al sistema AllStarLink nodo n. 556990, Echolink I7IGX-R ed al sistema SVXlink italiano, col TG 76.</p>"
     },
@@ -5406,7 +5361,7 @@
       ],
       "modules": [],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.531035Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.753955Z",
       "network_type": "business",
       "description": ""
     },
@@ -5428,7 +5383,7 @@
       ],
       "modules": [],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.217187Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.665810Z",
       "network_type": "hosting",
       "description": "<p>Netoholics Network multi-mode reflector supporting DMR, M17, P25, and NXDN.</p>"
     },
@@ -5489,7 +5444,7 @@
         }
       ],
       "ip_source": "dns",
-      "dns_cache_updated_at": "2026-11-04T11:35:59.091441Z",
+      "dns_cache_updated_at": "2026-11-04T19:05:59.199561Z",
       "network_type": "business",
       "description": "<p>URF-WIL is a multi-mode amateur-radio reflector supporting DMR/P25/NXDN/M17 with transcoding.</p>\r\n<p>The reflector is part of KE7WIL virtual AllStarLink node hub 641890.</p>"
     }
