@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-11-17 02:54:26 UTC
+# Generated: 2026-11-17 23:29:31 UTC
 # Source:    https://github.com/M17-Project/hostfiles
 #
 # Reflector data provided by DVRef — https://dvref.com/
@@ -206,6 +206,7 @@ URFLAN 82.68.53.241 17000
 URFOKA 155.138.236.64 17000
 URFPRC 120.197.207.2 17000
 URFSIN 64.112.234.163 17000
+URFTUR 31.57.33.9 17000
 URFWAW 94.177.202.207 17000
 URFWIL 72.222.219.41 17000
 VEX000 67.217.242.210 17000
