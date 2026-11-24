@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-11-24 04:44:59 UTC
+# Generated: 2026-11-24 19:29:08 UTC
 # Source:    https://github.com/M17-Project/hostfiles
 #
 # Reflector data provided by DVRef — https://dvref.com/
@@ -132,7 +132,7 @@ M17-LRC 149.28.250.122 17000
 M17-M17 107.191.121.105 17000
 M17-MCH 45.32.193.131 17000
 M17-MEM 99.94.135.115 17000
-M17-MEX 187.207.44.144 17000
+M17-MEX 201.137.68.15 17000
 M17-NCA 74.91.114.88 17000
 M17-NET 44.30.157.21 27000
 M17-NJR 44.27.139.150 44000
