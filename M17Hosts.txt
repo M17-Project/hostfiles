@@ -1,7 +1,7 @@
 #
 # M17Hosts.txt
 #
-# Generated: 2026-11-25 14:15:56 UTC
+# Generated: 2026-11-26 00:17:05 UTC
 # Source:    https://github.com/M17-Project/hostfiles
 #
 # Reflector data provided by DVRef — https://dvref.com/
@@ -176,6 +176,7 @@ URF098 133.125.58.227 17000
 URF105 193.202.85.87 17000
 URF106 24.127.204.177 17000
 URF144 185.33.145.102 17000
+URF155 104.21.34.234 17000
 URF162 44.32.81.27 17000
 URF178 80.229.161.124 17000
 URF213 143.47.34.183 17000
